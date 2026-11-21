@@ -1,0 +1,801 @@
+Booking_ID,Hotel_Name,City,Room_Type,Booking_Channel,Guest_Type,Booking_Date,Stay_Date,Stay_Length,Room_Price,Booking_Status,Total_Amount
+1001,Oberoi Mumbai,Mumbai,Executive,Direct,Business,2024-09-03,2024-05-16,3,2500.0,Cancelled,7500.0
+1002,Taj Palace Delhi,Bengaluru,Deluxe,Travel Agent,Business,2024-08-05,2024-11-19,1,2500.0,Confirmed,2500.0
+1003,Oberoi Mumbai,Mumbai,Suite,Direct,Business,2024-01-25,2024-05-09,3,12000.0,Cancelled,36000.0
+1004,Marriott Bengaluru,Jaipur,Suite,Travel Agent,Solo,2024-11-16,2024-01-26,1,8500.0,Cancelled,8500.0
+1005,Oberoi Mumbai,Delhi,Deluxe,Direct,Solo,2024-10-08,2024-05-20,7,6000.0,Cancelled,42000.0
+1006,Leela Jaipur,Jaipur,Executive,OTA,Couple,2024-02-25,2024-03-28,3,,Cancelled,
+1007,Oberoi Mumbai,Delhi,Deluxe,Direct,Family,2024-12-23,2024-05-21,5,6000.0,Confirmed,30000.0
+1008,Marriott Bengaluru,Hyderabad,Suite,Direct,Family,2024-08-04,2024-02-08,2,8500.0,No-Show,17000.0
+1009,Taj Palace Delhi,Mumbai,Deluxe,Direct,Business,2024-02-17,2024-01-23,5,8500.0,Confirmed,42500.0
+1010,Oberoi Mumbai,Jaipur,Standard,Direct,Business,2024-02-08,2024-09-20,3,2500.0,Confirmed,7500.0
+1011,Hyatt Hyderabad,Jaipur,Suite,Travel Agent,Family,2024-03-13,2024-08-05,4,6000.0,No-Show,24000.0
+1012,Oberoi Mumbai,Mumbai,Standard,Travel Agent,Family,2024-05-13,2024-05-17,3,3500.0,Confirmed,10500.0
+1013,Hyatt Hyderabad,Jaipur,Executive,Direct,,2024-12-09,2024-09-21,5,4500.0,Confirmed,22500.0
+1014,Taj Palace Delhi,Hyderabad,Executive,OTA,Family,2024-11-02,2024-09-03,7,6000.0,Cancelled,42000.0
+1015,Oberoi Mumbai,Mumbai,Deluxe,Travel Agent,Family,2024-11-26,2024-05-31,3,12000.0,No-Show,36000.0
+1016,Oberoi Mumbai,Jaipur,Deluxe,Travel Agent,Solo,2024-08-06,2024-04-18,7,2500.0,No-Show,17500.0
+1017,Leela Jaipur,Bengaluru,Suite,OTA,Solo,2024-03-05,2024-09-04,7,12000.0,Confirmed,84000.0
+1018,ITC Grand Goa,Hyderabad,Suite,Travel Agent,Business,2024-12-13,2024-12-29,6,8500.0,No-Show,51000.0
+1019,Taj Palace Delhi,Mumbai,Suite,Travel Agent,Business,2024-11-07,2024-04-03,6,6000.0,Cancelled,36000.0
+1020,Marriott Bengaluru,Jaipur,Deluxe,Direct,Business,2024-09-13,2024-10-08,3,6000.0,No-Show,18000.0
+1021,Marriott Bengaluru,Jaipur,Deluxe,Direct,Solo,2024-01-16,2024-07-30,2,12000.0,No-Show,24000.0
+1022,Oberoi Mumbai,Delhi,Suite,OTA,Business,2024-06-29,2024-05-13,4,3500.0,Cancelled,14000.0
+1023,Leela Jaipur,Hyderabad,Executive,Direct,Family,2024-07-20,2024-11-30,5,6000.0,Cancelled,30000.0
+1024,Oberoi Mumbai,Goa,Suite,Direct,Business,2024-03-11,2024-03-24,3,12000.0,No-Show,36000.0
+1025,Oberoi Mumbai,Goa,Suite,OTA,Couple,2024-04-05,2024-08-02,1,4500.0,Confirmed,4500.0
+1026,ITC Grand Goa,Jaipur,Suite,Direct,Business,2024-12-18,2024-10-09,4,8500.0,Confirmed,34000.0
+1027,ITC Grand Goa,Delhi,Executive,Travel Agent,Business,2024-11-13,2024-04-16,6,18000.0,Confirmed,108000.0
+1028,Oberoi Mumbai,Bengaluru,Suite,Travel Agent,Business,2024-02-08,2024-09-17,4,8500.0,Confirmed,34000.0
+1029,Taj Palace Delhi,Delhi,Executive,Travel Agent,Business,2024-01-12,2024-10-14,4,4500.0,Confirmed,18000.0
+1030,Oberoi Mumbai,Hyderabad,Executive,OTA,Couple,2024-03-12,2024-03-16,7,18000.0,No-Show,126000.0
+1031,Taj Palace Delhi,Bengaluru,Suite,Direct,Family,2024-05-13,2024-12-06,6,8500.0,Confirmed,51000.0
+1032,Oberoi Mumbai,Hyderabad,Deluxe,OTA,Couple,2024-07-23,2024-04-08,4,3500.0,Confirmed,14000.0
+1033,Leela Jaipur,Goa,Standard,Travel Agent,Couple,2024-04-01,2024-05-12,2,18000.0,Cancelled,36000.0
+1034,Hyatt Hyderabad,Mumbai,Deluxe,OTA,Couple,2024-12-07,2024-08-15,3,4500.0,No-Show,13500.0
+1035,ITC Grand Goa,Hyderabad,Suite,Travel Agent,Family,2024-05-11,2024-09-18,1,6000.0,No-Show,6000.0
+1036,Hyatt Hyderabad,Hyderabad,Deluxe,OTA,Couple,2024-11-04,2024-12-24,5,2500.0,Confirmed,12500.0
+1037,Hyatt Hyderabad,Mumbai,Suite,Travel Agent,Couple,2024-12-19,2024-06-17,4,12000.0,No-Show,48000.0
+1038,Hyatt Hyderabad,Jaipur,Suite,Direct,Family,2024-09-02,2024-02-21,1,3500.0,Cancelled,3500.0
+1039,Leela Jaipur,Hyderabad,Deluxe,Direct,Solo,2024-12-03,2024-08-04,5,2500.0,No-Show,12500.0
+1040,Hyatt Hyderabad,Jaipur,Suite,OTA,Solo,2024-12-27,2024-01-15,3,2500.0,Confirmed,7500.0
+1041,Taj Palace Delhi,Jaipur,Executive,Travel Agent,Couple,2024-09-02,2024-02-07,7,18000.0,Confirmed,126000.0
+1042,Marriott Bengaluru,Bengaluru,Suite,Direct,Solo,2024-06-11,2024-03-15,3,6000.0,No-Show,18000.0
+1043,Marriott Bengaluru,Hyderabad,Deluxe,Travel Agent,Family,2024-05-23,2024-08-16,5,2500.0,Confirmed,12500.0
+1044,Hyatt Hyderabad,Hyderabad,Standard,Travel Agent,Family,2024-04-04,2024-01-29,6,6000.0,Confirmed,36000.0
+1045,Leela Jaipur,Hyderabad,Suite,Travel Agent,Solo,2024-01-12,2024-01-29,4,12000.0,No-Show,48000.0
+1046,Oberoi Mumbai,Delhi,Suite,Direct,Couple,2024-09-28,2024-04-18,6,12000.0,Cancelled,72000.0
+1047,Oberoi Mumbai,Mumbai,Executive,Direct,Business,2024-05-14,2024-05-15,1,4500.0,Confirmed,4500.0
+1048,Taj Palace Delhi,Delhi,Suite,OTA,Couple,2024-10-16,2024-11-07,4,6000.0,Confirmed,24000.0
+1049,ITC Grand Goa,Bengaluru,Executive,OTA,Business,2024-02-06,2024-01-02,3,8500.0,No-Show,25500.0
+1050,Leela Jaipur,Goa,Suite,Travel Agent,Solo,2024-04-16,2024-02-28,1,18000.0,Confirmed,18000.0
+1051,Oberoi Mumbai,Hyderabad,Standard,Travel Agent,Family,2024-05-14,2024-03-02,6,3500.0,No-Show,21000.0
+1052,Hyatt Hyderabad,Delhi,Suite,OTA,Business,2024-10-11,2024-06-09,2,4500.0,Confirmed,9000.0
+1053,Leela Jaipur,Bengaluru,Suite,Travel Agent,Couple,2024-07-14,2024-06-15,1,6000.0,No-Show,6000.0
+1054,Taj Palace Delhi,Bengaluru,Suite,Travel Agent,Family,2024-07-30,2024-07-31,2,12000.0,Cancelled,24000.0
+1055,Oberoi Mumbai,Mumbai,Standard,Travel Agent,Business,2024-10-13,2024-10-09,6,18000.0,No-Show,108000.0
+1056,Leela Jaipur,Jaipur,Suite,Travel Agent,Solo,2024-08-01,2024-04-26,6,8500.0,Confirmed,51000.0
+1057,Oberoi Mumbai,Mumbai,Deluxe,Direct,Solo,2024-06-25,2024-04-18,3,12000.0,Cancelled,36000.0
+1058,Oberoi Mumbai,Jaipur,Suite,OTA,Solo,2024-07-06,2024-11-16,4,3500.0,No-Show,14000.0
+1059,Hyatt Hyderabad,Goa,Standard,Direct,Family,2024-10-16,2024-07-14,3,18000.0,No-Show,54000.0
+1060,Hyatt Hyderabad,Delhi,Suite,Direct,Couple,2024-09-27,2024-06-18,7,2500.0,No-Show,17500.0
+1061,ITC Grand Goa,Delhi,Suite,Travel Agent,Business,2024-08-11,2024-06-04,4,12000.0,Confirmed,48000.0
+1062,Marriott Bengaluru,Jaipur,Deluxe,OTA,Business,2024-05-24,2024-04-02,4,12000.0,No-Show,48000.0
+1063,Oberoi Mumbai,Delhi,Suite,Direct,Family,2024-07-10,2024-12-18,7,12000.0,No-Show,84000.0
+1064,Hyatt Hyderabad,Bengaluru,Suite,Direct,Solo,2024-10-24,2024-01-01,7,6000.0,No-Show,42000.0
+1065,Marriott Bengaluru,Mumbai,Deluxe,Travel Agent,Couple,2024-12-10,2024-02-06,4,2500.0,Confirmed,10000.0
+1066,Hyatt Hyderabad,Delhi,Suite,Travel Agent,Business,2024-02-16,2024-06-22,1,2500.0,No-Show,2500.0
+1067,Oberoi Mumbai,Jaipur,Standard,Travel Agent,Business,2024-07-01,2024-01-29,3,8500.0,No-Show,25500.0
+1068,Oberoi Mumbai,Bengaluru,Deluxe,OTA,Solo,2024-11-15,2024-08-21,1,4500.0,Cancelled,4500.0
+1069,ITC Grand Goa,Bengaluru,Executive,Travel Agent,Family,2024-10-18,2024-12-29,3,3500.0,Confirmed,10500.0
+1070,Hyatt Hyderabad,Hyderabad,Suite,Direct,Business,2024-10-15,2024-02-03,6,2500.0,No-Show,15000.0
+1071,Hyatt Hyderabad,Delhi,Standard,OTA,Business,2024-03-19,2024-06-29,7,18000.0,Confirmed,126000.0
+1072,Taj Palace Delhi,Jaipur,Deluxe,Direct,Couple,2024-05-09,2024-07-02,6,6000.0,Confirmed,36000.0
+1073,ITC Grand Goa,Hyderabad,Executive,Direct,Solo,2024-05-26,2024-11-10,7,2500.0,No-Show,17500.0
+1074,Taj Palace Delhi,Mumbai,Deluxe,OTA,Business,2024-09-29,2024-12-26,5,2500.0,No-Show,12500.0
+1075,Taj Palace Delhi,Bengaluru,Executive,Travel Agent,Couple,2024-09-15,2024-01-16,7,6000.0,Confirmed,42000.0
+1076,Leela Jaipur,Mumbai,Suite,Travel Agent,Business,2024-03-30,2024-09-13,4,6000.0,Confirmed,24000.0
+1077,Oberoi Mumbai,Goa,Suite,Direct,Couple,2024-03-19,2024-05-11,6,6000.0,Confirmed,36000.0
+1078,Oberoi Mumbai,Delhi,Deluxe,OTA,Couple,2024-02-14,2024-12-12,1,4500.0,No-Show,4500.0
+1079,Hyatt Hyderabad,Jaipur,Executive,Travel Agent,Solo,2024-11-05,2024-08-16,6,12000.0,Confirmed,72000.0
+1080,Hyatt Hyderabad,Bengaluru,Suite,Travel Agent,Family,2024-01-02,2024-08-29,2,12000.0,Cancelled,24000.0
+1081,Taj Palace Delhi,Delhi,Executive,Direct,Family,2024-07-23,2024-04-03,6,12000.0,Cancelled,72000.0
+1082,Marriott Bengaluru,Hyderabad,Standard,OTA,Couple,2024-08-14,2024-05-19,2,18000.0,Cancelled,36000.0
+1083,Leela Jaipur,Delhi,Deluxe,Direct,Business,2024-03-15,2024-09-12,5,2500.0,Confirmed,12500.0
+1084,Marriott Bengaluru,Mumbai,Suite,Travel Agent,Couple,2024-02-28,2024-08-21,4,2500.0,Confirmed,10000.0
+1085,Hyatt Hyderabad,Jaipur,Suite,Travel Agent,Family,2024-05-23,2024-03-07,3,12000.0,Cancelled,36000.0
+1086,ITC Grand Goa,Goa,Standard,Direct,Business,2024-09-19,2024-12-03,2,12000.0,No-Show,24000.0
+1087,Marriott Bengaluru,Goa,Standard,Direct,Business,2024-07-16,2024-04-22,5,2500.0,No-Show,12500.0
+1088,Leela Jaipur,Delhi,Standard,Travel Agent,Solo,2024-05-29,2024-04-01,4,2500.0,No-Show,10000.0
+1089,Oberoi Mumbai,Delhi,Standard,Direct,Solo,2024-11-22,2024-06-04,1,12000.0,Confirmed,12000.0
+1090,Hyatt Hyderabad,Delhi,Deluxe,OTA,Family,2024-01-28,2024-01-08,6,2500.0,Cancelled,15000.0
+1091,Leela Jaipur,Hyderabad,Executive,Travel Agent,Business,2024-02-08,2024-03-23,6,2500.0,Confirmed,15000.0
+1092,ITC Grand Goa,Bengaluru,Suite,Travel Agent,Family,2024-10-21,2024-12-10,6,6000.0,Confirmed,36000.0
+1093,Marriott Bengaluru,Jaipur,Executive,Travel Agent,Family,2024-02-04,2024-09-25,4,12000.0,Cancelled,48000.0
+1094,Hyatt Hyderabad,Mumbai,Executive,Travel Agent,Business,2024-08-04,2024-09-26,2,8500.0,Cancelled,17000.0
+1095,Oberoi Mumbai,Mumbai,Suite,Travel Agent,Solo,2024-09-29,2024-12-29,2,8500.0,Cancelled,17000.0
+1096,Oberoi Mumbai,Goa,Deluxe,OTA,Family,2024-11-15,2024-03-21,2,8500.0,Cancelled,17000.0
+1097,Leela Jaipur,Mumbai,Standard,Direct,Solo,2024-09-11,2024-03-09,1,6000.0,Cancelled,6000.0
+1098,Hyatt Hyderabad,Jaipur,Deluxe,Direct,Couple,2024-08-23,2024-07-27,3,6000.0,Confirmed,18000.0
+1099,Hyatt Hyderabad,Hyderabad,Executive,Travel Agent,Solo,2024-03-14,2024-01-25,4,12000.0,No-Show,48000.0
+1100,ITC Grand Goa,Hyderabad,Suite,Travel Agent,Business,2024-05-27,2024-09-15,5,3500.0,No-Show,17500.0
+1101,Oberoi Mumbai,Goa,Standard,Travel Agent,Couple,2024-08-05,2024-03-17,3,18000.0,No-Show,54000.0
+1102,ITC Grand Goa,Jaipur,Standard,Direct,Couple,2024-12-07,2024-05-04,6,6000.0,Cancelled,36000.0
+1103,Taj Palace Delhi,Hyderabad,Suite,OTA,Solo,2024-10-21,2024-11-26,2,4500.0,Cancelled,9000.0
+1104,Hyatt Hyderabad,Bengaluru,Suite,Travel Agent,Family,2024-03-03,2024-06-14,5,6000.0,No-Show,30000.0
+1105,ITC Grand Goa,Delhi,Standard,Direct,Couple,2024-06-29,2024-12-11,4,2500.0,Cancelled,10000.0
+1106,Marriott Bengaluru,Delhi,Suite,Direct,Business,2024-09-29,2024-06-11,7,2500.0,Cancelled,17500.0
+1107,ITC Grand Goa,Mumbai,Executive,Travel Agent,Couple,2024-12-28,2024-09-05,2,3500.0,No-Show,7000.0
+1108,Marriott Bengaluru,Jaipur,Deluxe,Travel Agent,Family,2024-08-13,2024-03-24,4,12000.0,No-Show,48000.0
+1109,Oberoi Mumbai,Hyderabad,Deluxe,Travel Agent,Business,2024-10-09,2024-02-11,2,8500.0,Cancelled,17000.0
+1110,Taj Palace Delhi,Goa,Standard,OTA,Solo,2024-08-22,2024-10-04,3,6000.0,Cancelled,18000.0
+1111,Marriott Bengaluru,Hyderabad,Executive,Direct,Family,2024-09-19,2024-03-15,2,8500.0,Confirmed,17000.0
+1112,Oberoi Mumbai,Goa,Executive,Direct,Business,2024-01-02,2024-05-31,4,8500.0,Confirmed,34000.0
+1113,ITC Grand Goa,Delhi,Deluxe,OTA,Solo,2024-11-07,2024-08-05,5,3500.0,Confirmed,17500.0
+1114,Leela Jaipur,Jaipur,Deluxe,OTA,Business,2024-11-04,2024-03-20,1,8500.0,No-Show,8500.0
+1115,Taj Palace Delhi,Bengaluru,Suite,Direct,Couple,2024-09-24,2024-06-24,5,18000.0,No-Show,90000.0
+1116,ITC Grand Goa,Bengaluru,Deluxe,Direct,Business,2024-12-13,2024-01-07,5,18000.0,Cancelled,90000.0
+1117,Leela Jaipur,Mumbai,Deluxe,Travel Agent,Couple,2024-07-28,2024-07-04,4,3500.0,Confirmed,14000.0
+1118,ITC Grand Goa,Goa,Suite,Direct,Family,2024-05-11,2024-08-24,7,2500.0,Cancelled,17500.0
+1119,Oberoi Mumbai,Goa,Executive,Direct,Solo,2024-12-21,2024-03-20,5,18000.0,No-Show,90000.0
+1120,Marriott Bengaluru,Hyderabad,Standard,Travel Agent,Business,2024-01-20,2024-03-19,4,12000.0,No-Show,48000.0
+1121,ITC Grand Goa,Mumbai,Suite,Direct,Business,2024-09-15,2024-01-20,7,12000.0,No-Show,84000.0
+1122,ITC Grand Goa,Delhi,Deluxe,Travel Agent,Family,2024-03-10,2024-04-20,6,8500.0,No-Show,51000.0
+1123,Leela Jaipur,Jaipur,Executive,Travel Agent,Business,2024-10-20,2024-02-25,6,18000.0,No-Show,108000.0
+1124,ITC Grand Goa,Delhi,Standard,Travel Agent,Family,2024-04-03,2024-04-02,1,2500.0,Cancelled,2500.0
+1125,Taj Palace Delhi,Delhi,Standard,OTA,Solo,2024-06-20,2024-04-29,4,2500.0,Confirmed,10000.0
+1126,Marriott Bengaluru,Delhi,Executive,Direct,Business,2024-07-23,2024-07-09,4,6000.0,Confirmed,24000.0
+1127,Taj Palace Delhi,Bengaluru,Standard,Travel Agent,Couple,2024-05-03,2024-06-07,4,2500.0,Confirmed,10000.0
+1128,ITC Grand Goa,Bengaluru,Executive,OTA,Family,2024-02-02,2024-05-22,2,8500.0,No-Show,17000.0
+1129,Hyatt Hyderabad,Jaipur,Executive,Travel Agent,Solo,2024-11-22,2024-05-09,1,18000.0,Cancelled,18000.0
+1130,ITC Grand Goa,Delhi,Standard,OTA,Family,2024-06-10,2024-01-15,5,8500.0,Cancelled,42500.0
+1131,Leela Jaipur,Goa,Suite,OTA,Couple,2024-09-23,2024-03-17,6,4500.0,Confirmed,27000.0
+1132,Leela Jaipur,Delhi,Executive,Direct,Business,2024-06-17,2024-04-17,2,18000.0,No-Show,36000.0
+1133,Leela Jaipur,Mumbai,Deluxe,Travel Agent,Solo,2024-03-17,2024-06-19,2,18000.0,Confirmed,36000.0
+1134,Marriott Bengaluru,Mumbai,Executive,Direct,Family,2024-07-28,2024-04-22,3,4500.0,Confirmed,13500.0
+1135,Taj Palace Delhi,Jaipur,Standard,OTA,Couple,2024-03-13,2024-09-01,1,3500.0,Cancelled,3500.0
+1136,Leela Jaipur,Mumbai,Suite,Direct,Family,2024-06-15,2024-09-28,3,12000.0,No-Show,36000.0
+1137,Oberoi Mumbai,Jaipur,Standard,Direct,Couple,2024-04-13,2024-12-04,3,4500.0,Confirmed,13500.0
+1138,Marriott Bengaluru,Hyderabad,Executive,Travel Agent,Business,2024-10-07,2024-11-23,3,8500.0,Confirmed,25500.0
+1139,ITC Grand Goa,Goa,Executive,Travel Agent,Family,2024-02-04,2024-06-18,2,12000.0,Cancelled,24000.0
+1140,Hyatt Hyderabad,Jaipur,Standard,OTA,Family,2024-05-10,2024-01-29,3,2500.0,Confirmed,7500.0
+1141,Oberoi Mumbai,Delhi,Deluxe,OTA,Business,2024-11-06,2024-11-15,5,2500.0,No-Show,12500.0
+1142,Taj Palace Delhi,Hyderabad,Standard,Direct,Couple,2024-06-18,2024-12-01,1,8500.0,Confirmed,8500.0
+1143,Marriott Bengaluru,Jaipur,Executive,OTA,Business,2024-12-01,2024-11-02,7,8500.0,Cancelled,59500.0
+1144,Hyatt Hyderabad,Delhi,Executive,OTA,Family,2024-11-18,2024-02-03,3,2500.0,Confirmed,7500.0
+1145,Marriott Bengaluru,Delhi,Deluxe,OTA,Business,2024-10-09,2024-06-16,2,8500.0,Cancelled,17000.0
+1146,Taj Palace Delhi,Mumbai,Executive,OTA,Solo,2024-09-15,2024-05-05,5,4500.0,Confirmed,22500.0
+1147,ITC Grand Goa,Mumbai,Deluxe,Direct,Business,2024-11-10,2024-06-07,2,6000.0,No-Show,12000.0
+1148,Marriott Bengaluru,Hyderabad,Suite,Travel Agent,Couple,2024-10-28,2024-04-23,1,18000.0,Cancelled,18000.0
+1149,Oberoi Mumbai,Jaipur,Standard,OTA,Family,2024-12-15,2024-01-19,1,4500.0,Cancelled,4500.0
+1150,Leela Jaipur,Mumbai,Standard,OTA,Family,2024-07-07,2024-08-08,2,4500.0,Confirmed,9000.0
+1151,Leela Jaipur,Jaipur,Deluxe,Travel Agent,Business,2024-09-23,2024-07-07,4,4500.0,Cancelled,18000.0
+1152,Hyatt Hyderabad,Delhi,Standard,OTA,Couple,2024-01-22,2024-10-16,5,3500.0,Cancelled,17500.0
+1153,ITC Grand Goa,Hyderabad,Deluxe,Direct,Solo,2024-10-14,2024-02-05,1,6000.0,Confirmed,6000.0
+1154,Marriott Bengaluru,Mumbai,Standard,Travel Agent,Couple,2024-05-06,2024-06-01,4,3500.0,Confirmed,14000.0
+1155,ITC Grand Goa,Delhi,Deluxe,Direct,Business,2024-12-27,2024-06-13,5,2500.0,Confirmed,12500.0
+1156,ITC Grand Goa,Bengaluru,Suite,OTA,Couple,2024-02-18,2024-07-01,1,8500.0,Cancelled,8500.0
+1157,ITC Grand Goa,Bengaluru,Executive,Travel Agent,Couple,2024-08-31,2024-03-02,6,18000.0,Confirmed,108000.0
+1158,Marriott Bengaluru,Mumbai,Deluxe,Direct,Business,2024-08-31,2024-12-15,2,6000.0,Confirmed,12000.0
+1159,ITC Grand Goa,Jaipur,Executive,Direct,Solo,2024-08-04,2024-07-17,6,12000.0,Confirmed,72000.0
+1160,Hyatt Hyderabad,Delhi,Deluxe,Direct,Business,2024-07-30,2024-06-14,6,2500.0,No-Show,15000.0
+1161,Marriott Bengaluru,Jaipur,Executive,Travel Agent,Family,2024-12-03,2024-11-20,3,18000.0,No-Show,54000.0
+1162,Hyatt Hyderabad,Hyderabad,Suite,Travel Agent,Solo,2024-11-24,2024-01-25,7,8500.0,Confirmed,59500.0
+1163,Oberoi Mumbai,Bengaluru,Executive,OTA,Couple,2024-10-09,2024-12-12,1,6000.0,Confirmed,6000.0
+1164,Taj Palace Delhi,Hyderabad,Standard,Direct,Family,2024-05-31,2024-09-08,4,2500.0,No-Show,10000.0
+1165,Oberoi Mumbai,Hyderabad,Suite,OTA,Family,2024-09-15,2024-07-16,5,12000.0,No-Show,60000.0
+1166,Leela Jaipur,Bengaluru,Suite,Direct,Solo,2024-02-13,2024-09-23,2,2500.0,No-Show,5000.0
+1167,ITC Grand Goa,Jaipur,Executive,OTA,Couple,2024-06-09,2024-11-10,1,18000.0,No-Show,18000.0
+1168,Leela Jaipur,Jaipur,Deluxe,OTA,Solo,2024-08-07,2024-07-18,1,6000.0,No-Show,6000.0
+1169,Oberoi Mumbai,Bengaluru,Standard,OTA,Solo,2024-03-14,2024-12-24,7,2500.0,Confirmed,17500.0
+1170,Leela Jaipur,Bengaluru,Standard,OTA,Solo,2024-10-02,2024-05-22,2,2500.0,Confirmed,5000.0
+1171,Oberoi Mumbai,Goa,Executive,Direct,Solo,2024-02-09,2024-07-12,7,2500.0,No-Show,17500.0
+1172,Taj Palace Delhi,Hyderabad,Standard,OTA,Couple,2024-03-06,2024-02-10,3,12000.0,Confirmed,36000.0
+1173,Marriott Bengaluru,Bengaluru,Standard,Direct,Business,2024-08-15,2024-03-08,6,18000.0,Cancelled,108000.0
+1174,Oberoi Mumbai,Mumbai,Standard,OTA,Solo,2024-05-10,2024-09-14,7,12000.0,Confirmed,84000.0
+1175,Taj Palace Delhi,Hyderabad,Deluxe,OTA,Solo,2024-08-02,2024-03-13,2,18000.0,No-Show,36000.0
+1176,Oberoi Mumbai,Delhi,Standard,OTA,Business,2024-05-13,2024-11-20,7,3500.0,Cancelled,24500.0
+1177,Oberoi Mumbai,Goa,Deluxe,Direct,Couple,2024-05-02,2024-08-25,3,6000.0,No-Show,18000.0
+1178,Oberoi Mumbai,Hyderabad,Executive,OTA,Family,2024-10-18,2024-12-24,1,8500.0,No-Show,8500.0
+1179,Marriott Bengaluru,Mumbai,Executive,Travel Agent,Solo,2024-04-10,2024-09-12,7,6000.0,Confirmed,42000.0
+1180,Hyatt Hyderabad,Mumbai,Deluxe,Direct,Couple,2024-10-15,2024-12-29,7,3500.0,Confirmed,24500.0
+1181,ITC Grand Goa,Hyderabad,Suite,Direct,Business,2024-02-15,2024-08-19,6,18000.0,No-Show,108000.0
+1182,ITC Grand Goa,Bengaluru,Suite,Travel Agent,Family,2024-02-15,2024-02-01,3,12000.0,Confirmed,36000.0
+1183,Taj Palace Delhi,Mumbai,Deluxe,OTA,Solo,2024-02-10,2024-10-04,2,8500.0,Cancelled,17000.0
+1184,Taj Palace Delhi,Mumbai,Deluxe,Direct,Solo,2024-12-09,2024-06-25,7,6000.0,No-Show,42000.0
+1185,Hyatt Hyderabad,Goa,Executive,Direct,Solo,2024-05-25,2024-12-06,3,2500.0,Cancelled,7500.0
+1186,Taj Palace Delhi,Hyderabad,Standard,OTA,Business,2024-03-15,2024-03-15,6,8500.0,Confirmed,51000.0
+1187,Hyatt Hyderabad,Jaipur,Suite,Travel Agent,Solo,2024-02-14,2024-04-27,7,4500.0,Confirmed,31500.0
+1188,Leela Jaipur,Delhi,Suite,Travel Agent,Business,2024-08-06,2024-07-02,1,4500.0,No-Show,4500.0
+1189,ITC Grand Goa,Delhi,Suite,OTA,Solo,2024-01-19,2024-01-10,6,3500.0,No-Show,21000.0
+1190,Oberoi Mumbai,Bengaluru,Suite,Travel Agent,Solo,2024-08-19,2024-05-20,7,2500.0,Confirmed,17500.0
+1191,Marriott Bengaluru,Hyderabad,Suite,Travel Agent,Business,2024-01-03,2024-10-12,5,12000.0,Cancelled,60000.0
+1192,Hyatt Hyderabad,Delhi,Executive,Travel Agent,Solo,2024-05-06,2024-12-28,6,4500.0,Cancelled,27000.0
+1193,Leela Jaipur,Hyderabad,Executive,OTA,Business,2024-12-17,2024-11-20,5,3500.0,No-Show,17500.0
+1194,Leela Jaipur,Hyderabad,Executive,Direct,Business,2024-05-07,2024-07-30,7,12000.0,No-Show,84000.0
+1195,Oberoi Mumbai,Bengaluru,Suite,OTA,Solo,2024-05-20,2024-04-07,5,8500.0,Cancelled,42500.0
+1196,Leela Jaipur,Bengaluru,Deluxe,Travel Agent,Business,2024-03-18,2024-12-29,7,18000.0,Confirmed,126000.0
+1197,Taj Palace Delhi,Hyderabad,Standard,Travel Agent,Family,2024-06-25,2024-03-19,4,3500.0,Confirmed,14000.0
+1198,Taj Palace Delhi,Mumbai,Deluxe,Direct,Business,2024-07-07,2024-07-30,1,2500.0,No-Show,2500.0
+1199,Oberoi Mumbai,Delhi,Suite,Travel Agent,Family,2024-07-08,2024-09-13,2,2500.0,Cancelled,5000.0
+1200,Taj Palace Delhi,Mumbai,Suite,Direct,Business,2024-01-10,2024-02-25,4,4500.0,No-Show,18000.0
+1201,Marriott Bengaluru,Bengaluru,Deluxe,OTA,Family,2024-12-06,2024-03-14,4,18000.0,No-Show,72000.0
+1202,Leela Jaipur,Delhi,Executive,OTA,Couple,2024-04-12,2024-03-08,1,3500.0,Confirmed,3500.0
+1203,ITC Grand Goa,Hyderabad,Standard,Travel Agent,Couple,2024-11-10,2024-11-29,1,18000.0,No-Show,18000.0
+1204,Oberoi Mumbai,Jaipur,Deluxe,OTA,Solo,2024-07-24,2024-08-12,3,2500.0,No-Show,7500.0
+1205,Oberoi Mumbai,Goa,Deluxe,Direct,Couple,2024-09-19,2024-07-23,4,2500.0,Confirmed,10000.0
+1206,Leela Jaipur,Jaipur,Suite,Direct,Couple,2024-01-22,2024-04-19,3,2500.0,Confirmed,7500.0
+1207,Oberoi Mumbai,Goa,Suite,Travel Agent,Family,2024-12-09,2024-09-14,4,18000.0,Confirmed,72000.0
+1208,Marriott Bengaluru,Hyderabad,Suite,Direct,Couple,2024-05-11,2024-01-11,5,6000.0,No-Show,30000.0
+1209,Leela Jaipur,Mumbai,Suite,OTA,Couple,2024-05-12,2024-03-13,2,12000.0,Confirmed,24000.0
+1210,Hyatt Hyderabad,Jaipur,Standard,Direct,Couple,2024-01-17,2024-07-21,1,6000.0,Confirmed,6000.0
+1211,Leela Jaipur,Goa,Executive,Travel Agent,Solo,2024-01-18,2024-08-07,2,18000.0,Cancelled,36000.0
+1212,Oberoi Mumbai,Hyderabad,Standard,OTA,Business,2024-05-09,2024-11-19,5,4500.0,Confirmed,22500.0
+1213,Taj Palace Delhi,Bengaluru,Deluxe,OTA,Solo,2024-03-28,2024-06-23,4,18000.0,No-Show,72000.0
+1214,Taj Palace Delhi,Bengaluru,Deluxe,Travel Agent,Couple,2024-01-11,2024-04-20,1,6000.0,Confirmed,6000.0
+1215,Marriott Bengaluru,Bengaluru,Suite,Travel Agent,Couple,2024-08-20,2024-03-04,7,2500.0,Cancelled,17500.0
+1216,Hyatt Hyderabad,Jaipur,Deluxe,Travel Agent,Couple,2024-12-05,2024-05-08,1,2500.0,No-Show,2500.0
+1217,ITC Grand Goa,Goa,Standard,OTA,Solo,2024-07-03,2024-12-17,6,3500.0,No-Show,21000.0
+1218,Taj Palace Delhi,Jaipur,Standard,OTA,Business,2024-01-22,2024-04-10,1,2500.0,Cancelled,2500.0
+1219,Marriott Bengaluru,Bengaluru,Deluxe,Travel Agent,Family,2024-04-23,2024-04-28,6,12000.0,No-Show,72000.0
+1220,Leela Jaipur,Hyderabad,Executive,Direct,Couple,2024-09-01,2024-04-27,5,4500.0,No-Show,22500.0
+1221,Marriott Bengaluru,Bengaluru,Executive,Travel Agent,Family,2024-09-26,2024-06-25,5,6000.0,Cancelled,30000.0
+1222,Oberoi Mumbai,Jaipur,Suite,Travel Agent,Family,2024-04-20,2024-12-12,1,18000.0,Confirmed,18000.0
+1223,Marriott Bengaluru,Bengaluru,Suite,OTA,Couple,2024-11-13,2024-11-12,5,12000.0,Confirmed,60000.0
+1224,Leela Jaipur,Jaipur,Standard,OTA,Business,2024-04-12,2024-08-06,5,18000.0,Cancelled,90000.0
+1225,Hyatt Hyderabad,Goa,Executive,OTA,Couple,2024-11-26,2024-01-27,1,12000.0,No-Show,12000.0
+1226,Taj Palace Delhi,Mumbai,Suite,Direct,Family,2024-11-17,2024-11-28,6,3500.0,Confirmed,21000.0
+1227,Oberoi Mumbai,Hyderabad,Standard,Travel Agent,Business,2024-06-02,2024-06-15,7,18000.0,No-Show,126000.0
+1228,ITC Grand Goa,Hyderabad,Executive,Travel Agent,Family,2024-07-28,2024-11-07,2,18000.0,Cancelled,36000.0
+1229,Taj Palace Delhi,Jaipur,Executive,Direct,Business,2024-11-06,2024-02-27,3,12000.0,Confirmed,36000.0
+1230,Oberoi Mumbai,Hyderabad,Executive,Travel Agent,Solo,2024-09-08,2024-06-26,2,3500.0,Confirmed,7000.0
+1231,Oberoi Mumbai,Hyderabad,Deluxe,Direct,Solo,2024-06-08,2024-10-10,7,2500.0,Cancelled,17500.0
+1232,ITC Grand Goa,Mumbai,Deluxe,OTA,Couple,2024-11-22,2024-06-10,6,8500.0,Cancelled,51000.0
+1233,Hyatt Hyderabad,Goa,Suite,Direct,Family,2024-01-25,2024-01-31,4,8500.0,No-Show,34000.0
+1234,ITC Grand Goa,Jaipur,Executive,Direct,Solo,2024-11-19,2024-07-04,4,6000.0,Confirmed,24000.0
+1235,Marriott Bengaluru,Jaipur,Executive,OTA,Business,2024-04-28,2024-03-11,5,2500.0,No-Show,12500.0
+1236,Marriott Bengaluru,Jaipur,Suite,Travel Agent,Solo,2024-04-09,2024-03-20,6,18000.0,No-Show,108000.0
+1237,Leela Jaipur,Goa,Suite,Travel Agent,Family,2024-03-17,2024-07-08,2,8500.0,No-Show,17000.0
+1238,Leela Jaipur,Mumbai,Suite,Travel Agent,Solo,2024-11-07,2024-05-25,4,6000.0,Cancelled,24000.0
+1239,Marriott Bengaluru,Jaipur,Executive,Travel Agent,Family,2024-08-25,2024-07-16,2,3500.0,No-Show,7000.0
+1240,ITC Grand Goa,Delhi,Executive,OTA,Business,2024-10-18,2024-03-24,1,12000.0,Confirmed,12000.0
+1241,ITC Grand Goa,Goa,Deluxe,OTA,Solo,2024-09-06,2024-01-24,2,8500.0,No-Show,17000.0
+1242,Leela Jaipur,Jaipur,Standard,Travel Agent,Couple,2024-05-27,2024-09-20,1,8500.0,Cancelled,8500.0
+1243,Marriott Bengaluru,Jaipur,Standard,Direct,Business,2024-09-13,2024-12-04,5,3500.0,No-Show,17500.0
+1244,ITC Grand Goa,Goa,Deluxe,OTA,Couple,2024-08-15,2024-03-30,1,12000.0,No-Show,12000.0
+1245,Hyatt Hyderabad,Goa,Standard,Direct,Solo,2024-12-20,2024-08-05,2,4500.0,Confirmed,9000.0
+1246,Marriott Bengaluru,Hyderabad,Suite,Travel Agent,Family,2024-12-29,2024-12-29,7,12000.0,Confirmed,84000.0
+1247,Leela Jaipur,Hyderabad,Deluxe,Travel Agent,Business,2024-08-01,2024-11-06,3,3500.0,No-Show,10500.0
+1248,Leela Jaipur,Goa,Executive,Direct,Business,2024-07-21,2024-11-24,1,12000.0,Confirmed,12000.0
+1249,Leela Jaipur,Jaipur,Standard,Travel Agent,Business,2024-02-01,2024-08-04,7,8500.0,Confirmed,59500.0
+1250,Leela Jaipur,Delhi,Standard,Direct,Business,2024-12-05,2024-02-11,7,3500.0,No-Show,24500.0
+1251,Leela Jaipur,Bengaluru,Deluxe,Direct,Couple,2024-03-25,2024-11-02,1,8500.0,Confirmed,8500.0
+1252,Hyatt Hyderabad,Delhi,Standard,Direct,Business,2024-10-31,2024-08-02,4,2500.0,Confirmed,10000.0
+1253,Leela Jaipur,Bengaluru,Executive,OTA,Couple,2024-04-10,2024-05-20,7,8500.0,No-Show,59500.0
+1254,Leela Jaipur,Mumbai,Standard,Travel Agent,Couple,2024-09-29,2024-03-21,4,18000.0,No-Show,72000.0
+1255,Hyatt Hyderabad,Mumbai,Standard,Direct,Solo,2024-04-23,2024-07-19,6,6000.0,Confirmed,36000.0
+1256,Taj Palace Delhi,Delhi,Deluxe,Travel Agent,Couple,2024-08-28,2024-03-09,1,12000.0,No-Show,12000.0
+1257,Taj Palace Delhi,Hyderabad,Deluxe,Direct,Family,2024-05-14,2024-04-21,1,2500.0,Cancelled,2500.0
+1258,Marriott Bengaluru,Hyderabad,Standard,Direct,Solo,2024-11-30,2024-01-22,3,12000.0,No-Show,36000.0
+1259,Taj Palace Delhi,Delhi,Deluxe,Direct,Business,2024-10-06,2024-12-06,7,12000.0,No-Show,84000.0
+1260,Leela Jaipur,Bengaluru,Executive,OTA,Family,2024-06-13,2024-02-06,1,8500.0,Cancelled,8500.0
+1261,Taj Palace Delhi,Goa,Deluxe,OTA,Business,2024-11-15,2024-10-19,6,6000.0,Cancelled,36000.0
+1262,Marriott Bengaluru,Hyderabad,Deluxe,OTA,Family,2024-03-18,2024-11-17,5,3500.0,Confirmed,17500.0
+1263,Taj Palace Delhi,Bengaluru,Suite,Travel Agent,Family,2024-07-26,2024-12-09,5,2500.0,No-Show,12500.0
+1264,Leela Jaipur,Delhi,Standard,Direct,Family,2024-10-17,2024-06-18,6,4500.0,Cancelled,27000.0
+1265,Oberoi Mumbai,Mumbai,Executive,OTA,Couple,2024-05-14,2024-01-01,3,18000.0,Cancelled,54000.0
+1266,Hyatt Hyderabad,Jaipur,Deluxe,OTA,Solo,2024-11-10,2024-04-23,4,4500.0,Confirmed,18000.0
+1267,Marriott Bengaluru,Bengaluru,Deluxe,Travel Agent,Family,2024-11-12,2024-10-27,2,18000.0,Cancelled,36000.0
+1268,Oberoi Mumbai,Delhi,Executive,OTA,Family,2024-04-10,2024-07-18,7,18000.0,Cancelled,126000.0
+1269,Leela Jaipur,Bengaluru,Deluxe,Direct,Solo,2024-12-23,2024-02-24,2,2500.0,Confirmed,5000.0
+1270,Marriott Bengaluru,Mumbai,Suite,OTA,Couple,2024-01-19,2024-03-09,3,8500.0,Cancelled,25500.0
+1271,Oberoi Mumbai,Jaipur,Standard,Travel Agent,Couple,2024-08-06,2024-03-05,2,3500.0,No-Show,7000.0
+1272,Hyatt Hyderabad,Goa,Suite,Travel Agent,Solo,2024-02-12,2024-11-01,5,18000.0,Confirmed,90000.0
+1273,Oberoi Mumbai,Mumbai,Standard,OTA,Business,2024-07-10,2024-12-27,3,8500.0,Confirmed,25500.0
+1274,ITC Grand Goa,Jaipur,Suite,Travel Agent,Family,2024-08-14,2024-04-05,7,8500.0,Cancelled,59500.0
+1275,ITC Grand Goa,Mumbai,Executive,Travel Agent,Solo,2024-01-08,2024-12-27,6,18000.0,Confirmed,108000.0
+1276,ITC Grand Goa,Goa,Standard,Direct,Family,2024-12-12,2024-10-06,5,4500.0,Confirmed,22500.0
+1277,Hyatt Hyderabad,Jaipur,Standard,Travel Agent,Couple,2024-08-27,2024-03-07,7,8500.0,Confirmed,59500.0
+1278,ITC Grand Goa,Bengaluru,Executive,Travel Agent,Couple,2024-08-21,2024-05-11,3,12000.0,Cancelled,36000.0
+1279,ITC Grand Goa,Goa,Deluxe,Direct,Solo,2024-02-12,2024-08-16,5,2500.0,No-Show,12500.0
+1280,ITC Grand Goa,Delhi,Standard,OTA,Family,2024-11-24,2024-06-11,3,6000.0,No-Show,18000.0
+1281,Marriott Bengaluru,Jaipur,Suite,Travel Agent,Couple,2024-09-06,2024-07-08,7,8500.0,Cancelled,59500.0
+1282,Oberoi Mumbai,Goa,Deluxe,Direct,Family,2024-11-08,2024-07-24,1,6000.0,No-Show,6000.0
+1283,Hyatt Hyderabad,Mumbai,Deluxe,OTA,Couple,2024-10-07,2024-09-15,1,4500.0,Cancelled,4500.0
+1284,Oberoi Mumbai,Delhi,Executive,OTA,Family,2024-08-04,2024-02-05,5,6000.0,No-Show,30000.0
+1285,ITC Grand Goa,Jaipur,Deluxe,Travel Agent,Family,2024-05-02,2024-07-25,6,18000.0,Confirmed,108000.0
+1286,Marriott Bengaluru,Bengaluru,Standard,Travel Agent,Solo,2024-12-25,2024-02-27,1,18000.0,Cancelled,18000.0
+1287,Hyatt Hyderabad,Delhi,Standard,Direct,Family,2024-07-22,2024-08-05,6,6000.0,Cancelled,36000.0
+1288,Oberoi Mumbai,Hyderabad,Suite,Direct,Business,2024-12-05,2024-01-13,5,6000.0,No-Show,30000.0
+1289,Leela Jaipur,Delhi,Suite,OTA,Solo,2024-07-30,2024-08-08,3,3500.0,Confirmed,10500.0
+1290,ITC Grand Goa,Goa,Executive,Travel Agent,Solo,2024-09-27,2024-05-09,2,12000.0,No-Show,24000.0
+1291,Oberoi Mumbai,Delhi,Standard,Travel Agent,Business,2024-08-07,2024-03-04,3,18000.0,No-Show,54000.0
+1292,ITC Grand Goa,Mumbai,Standard,Travel Agent,Solo,2024-09-18,2024-02-18,6,8500.0,Confirmed,51000.0
+1293,Oberoi Mumbai,Mumbai,Executive,OTA,Family,2024-04-09,2024-08-13,5,12000.0,No-Show,60000.0
+1294,Marriott Bengaluru,Bengaluru,Executive,Direct,Solo,2024-07-24,2024-09-21,2,8500.0,Cancelled,17000.0
+1295,ITC Grand Goa,Goa,Suite,OTA,Solo,2024-04-30,2024-02-05,7,18000.0,No-Show,126000.0
+1296,ITC Grand Goa,Delhi,Executive,OTA,Solo,2024-03-11,2024-09-14,5,6000.0,Confirmed,30000.0
+1297,Taj Palace Delhi,Jaipur,Executive,OTA,Family,2024-10-23,2024-06-03,7,6000.0,No-Show,42000.0
+1298,ITC Grand Goa,Hyderabad,Suite,OTA,Family,2024-05-01,2024-06-10,2,6000.0,No-Show,12000.0
+1299,ITC Grand Goa,Jaipur,Standard,OTA,Business,2024-05-14,2024-05-15,6,3500.0,Cancelled,21000.0
+1300,Hyatt Hyderabad,Delhi,Standard,OTA,Solo,2024-03-30,2024-01-21,7,6000.0,Cancelled,42000.0
+1301,Marriott Bengaluru,Bengaluru,Suite,Travel Agent,Business,2024-10-22,2024-12-25,3,3500.0,No-Show,10500.0
+1302,Marriott Bengaluru,Hyderabad,Suite,Direct,Business,2024-09-07,2024-05-30,3,12000.0,Confirmed,36000.0
+1303,ITC Grand Goa,Delhi,Standard,Direct,Couple,2024-05-20,2024-09-20,3,8500.0,No-Show,25500.0
+1304,Taj Palace Delhi,Mumbai,Suite,OTA,Family,2024-10-07,2024-05-06,3,3500.0,Cancelled,10500.0
+1305,Oberoi Mumbai,Bengaluru,Executive,OTA,Business,2024-11-02,2024-01-25,2,8500.0,Cancelled,17000.0
+1306,ITC Grand Goa,Jaipur,Deluxe,Travel Agent,Business,2024-02-11,2024-08-26,7,18000.0,No-Show,126000.0
+1307,Hyatt Hyderabad,Goa,Suite,Travel Agent,Business,2024-03-23,2024-12-30,3,4500.0,No-Show,13500.0
+1308,Oberoi Mumbai,Mumbai,Standard,Travel Agent,Solo,2024-03-28,2024-01-23,2,2500.0,No-Show,5000.0
+1309,Oberoi Mumbai,Delhi,Deluxe,Direct,Solo,2024-03-22,2024-02-12,1,4500.0,Cancelled,4500.0
+1310,ITC Grand Goa,Hyderabad,Suite,OTA,Family,2024-09-28,2024-03-22,3,2500.0,No-Show,7500.0
+1311,Oberoi Mumbai,Delhi,Deluxe,Direct,Solo,2024-08-29,2024-11-25,7,6000.0,No-Show,42000.0
+1312,Taj Palace Delhi,Hyderabad,Deluxe,Travel Agent,Family,2024-07-30,2024-08-27,2,12000.0,Cancelled,24000.0
+1313,Taj Palace Delhi,Goa,Standard,OTA,Business,2024-02-10,2024-01-25,5,6000.0,Cancelled,30000.0
+1314,Oberoi Mumbai,Goa,Standard,OTA,Business,2024-09-09,2024-06-17,6,8500.0,Cancelled,51000.0
+1315,ITC Grand Goa,Jaipur,Suite,Travel Agent,Business,2024-02-01,2024-09-04,5,18000.0,No-Show,90000.0
+1316,Taj Palace Delhi,Delhi,Deluxe,Direct,Solo,2024-06-01,2024-04-21,4,12000.0,Confirmed,48000.0
+1317,Leela Jaipur,Bengaluru,Standard,OTA,Family,2024-04-01,2024-09-07,1,4500.0,No-Show,4500.0
+1318,Taj Palace Delhi,Hyderabad,Deluxe,Travel Agent,Business,2024-10-09,2024-10-11,7,4500.0,Confirmed,31500.0
+1319,Leela Jaipur,Jaipur,Standard,Travel Agent,Solo,2024-01-08,2024-04-07,5,4500.0,Confirmed,22500.0
+1320,Leela Jaipur,Bengaluru,Standard,Travel Agent,Solo,2024-02-05,2024-11-26,1,2500.0,Cancelled,2500.0
+1321,Taj Palace Delhi,Jaipur,Executive,Direct,Business,2024-08-31,2024-06-28,5,6000.0,Cancelled,30000.0
+1322,Marriott Bengaluru,Mumbai,Suite,Travel Agent,Business,2024-08-30,2024-08-26,5,3500.0,Cancelled,17500.0
+1323,Taj Palace Delhi,Hyderabad,Suite,OTA,Solo,2024-09-12,2024-08-08,7,3500.0,Confirmed,24500.0
+1324,ITC Grand Goa,Delhi,Suite,OTA,Couple,2024-05-12,2024-03-08,7,6000.0,No-Show,42000.0
+1325,Marriott Bengaluru,Hyderabad,Deluxe,Travel Agent,Business,2024-02-07,2024-10-09,2,6000.0,Cancelled,12000.0
+1326,Marriott Bengaluru,Goa,Executive,Travel Agent,Solo,2024-10-25,2024-08-19,1,6000.0,No-Show,6000.0
+1327,ITC Grand Goa,Delhi,Executive,OTA,Business,2024-02-02,2024-11-22,2,12000.0,No-Show,24000.0
+1328,Taj Palace Delhi,Bengaluru,Suite,Travel Agent,Family,2024-03-29,2024-11-21,7,4500.0,Cancelled,31500.0
+1329,Oberoi Mumbai,Mumbai,Standard,Direct,Couple,2024-01-26,2024-11-17,7,4500.0,Confirmed,31500.0
+1330,Hyatt Hyderabad,Bengaluru,Executive,OTA,Business,2024-09-10,2024-12-30,5,2500.0,Cancelled,12500.0
+1331,Marriott Bengaluru,Jaipur,Executive,OTA,Couple,2024-04-13,2024-10-09,1,6000.0,Cancelled,6000.0
+1332,Marriott Bengaluru,Jaipur,Executive,OTA,Couple,2024-01-20,2024-05-09,5,12000.0,Cancelled,60000.0
+1333,Marriott Bengaluru,Delhi,Suite,OTA,Solo,2024-09-18,2024-04-22,5,6000.0,No-Show,30000.0
+1334,Hyatt Hyderabad,Bengaluru,Standard,Direct,Business,2024-04-14,2024-12-27,7,3500.0,No-Show,24500.0
+1335,ITC Grand Goa,Delhi,Suite,OTA,Couple,2024-07-29,2024-08-12,4,3500.0,No-Show,14000.0
+1336,Leela Jaipur,Jaipur,Suite,OTA,Business,2024-04-03,2024-11-05,6,4500.0,No-Show,27000.0
+1337,Leela Jaipur,Delhi,Standard,Direct,Family,2024-12-04,2024-04-05,7,6000.0,No-Show,42000.0
+1338,Taj Palace Delhi,Mumbai,Suite,OTA,Solo,2024-12-02,2024-01-11,3,18000.0,Cancelled,54000.0
+1339,Taj Palace Delhi,Mumbai,Standard,Direct,Couple,2024-06-30,2024-09-16,2,18000.0,Confirmed,36000.0
+1340,Hyatt Hyderabad,Delhi,Executive,OTA,Solo,2024-05-08,2024-05-19,4,8500.0,Confirmed,34000.0
+1341,Marriott Bengaluru,Jaipur,Deluxe,OTA,Business,2024-11-02,2024-12-31,5,4500.0,No-Show,22500.0
+1342,Leela Jaipur,Jaipur,Standard,Direct,Business,2024-02-15,2024-02-22,5,6000.0,Cancelled,30000.0
+1343,Marriott Bengaluru,Mumbai,Suite,Direct,Solo,2024-12-08,2024-08-23,2,18000.0,Confirmed,36000.0
+1344,Leela Jaipur,Jaipur,Deluxe,Travel Agent,Family,2024-06-30,2024-09-01,6,6000.0,Cancelled,36000.0
+1345,Oberoi Mumbai,Delhi,Executive,Travel Agent,Business,2024-06-13,2024-08-25,5,8500.0,Confirmed,42500.0
+1346,Oberoi Mumbai,Delhi,Suite,Travel Agent,Solo,2024-02-09,2024-11-27,2,6000.0,Cancelled,12000.0
+1347,Oberoi Mumbai,Hyderabad,Suite,Direct,Family,2024-10-23,2024-04-27,6,4500.0,Cancelled,27000.0
+1348,Leela Jaipur,Jaipur,Deluxe,OTA,Family,2024-12-30,2024-02-04,6,2500.0,No-Show,15000.0
+1349,ITC Grand Goa,Hyderabad,Executive,Direct,Family,2024-12-21,2024-10-06,5,18000.0,Confirmed,90000.0
+1350,Oberoi Mumbai,Bengaluru,Deluxe,OTA,Family,2024-01-09,2024-07-06,1,18000.0,Cancelled,18000.0
+1351,Taj Palace Delhi,Jaipur,Suite,Direct,Business,2024-02-24,2024-03-27,4,2500.0,Cancelled,10000.0
+1352,Leela Jaipur,Bengaluru,Executive,Travel Agent,Couple,2024-02-24,2024-04-16,3,3500.0,No-Show,10500.0
+1353,Leela Jaipur,Hyderabad,Suite,Travel Agent,Business,2024-07-19,2024-07-02,7,2500.0,No-Show,17500.0
+1354,ITC Grand Goa,Hyderabad,Executive,Direct,Family,2024-04-19,2024-01-17,1,2500.0,No-Show,2500.0
+1355,Marriott Bengaluru,Delhi,Standard,Direct,Solo,2024-09-28,2024-03-30,4,8500.0,Confirmed,34000.0
+1356,Taj Palace Delhi,Jaipur,Standard,Direct,Solo,2024-05-11,2024-03-03,1,4500.0,Cancelled,4500.0
+1357,Oberoi Mumbai,Delhi,Suite,Direct,Solo,2024-05-07,2024-04-08,4,8500.0,No-Show,34000.0
+1358,Oberoi Mumbai,Mumbai,Suite,Direct,Solo,2024-03-04,2024-07-29,7,3500.0,Cancelled,24500.0
+1359,Taj Palace Delhi,Hyderabad,Suite,Direct,Business,2024-06-27,2024-07-08,7,4500.0,No-Show,31500.0
+1360,ITC Grand Goa,Delhi,Standard,Travel Agent,Business,2024-05-26,2024-03-04,4,12000.0,Cancelled,48000.0
+1361,Hyatt Hyderabad,Bengaluru,Deluxe,Direct,Business,2024-07-19,2024-06-25,4,6000.0,Confirmed,24000.0
+1362,Hyatt Hyderabad,Goa,Standard,OTA,Family,2024-01-25,2024-11-12,5,4500.0,Confirmed,22500.0
+1363,Leela Jaipur,Bengaluru,Standard,Direct,Family,2024-09-12,2024-10-09,6,8500.0,Confirmed,51000.0
+1364,Marriott Bengaluru,Mumbai,Standard,Direct,Business,2024-04-10,2024-02-14,2,4500.0,Confirmed,9000.0
+1365,Leela Jaipur,Delhi,Deluxe,OTA,Couple,2024-10-08,2024-12-18,2,6000.0,Cancelled,12000.0
+1366,Marriott Bengaluru,Goa,Standard,Travel Agent,Family,2024-11-13,2024-03-19,4,6000.0,Cancelled,24000.0
+1367,ITC Grand Goa,Jaipur,Executive,Travel Agent,Business,2024-01-28,2024-11-14,3,8500.0,No-Show,25500.0
+1368,Hyatt Hyderabad,Goa,Suite,Direct,Couple,2024-03-31,2024-06-20,1,2500.0,No-Show,2500.0
+1369,Taj Palace Delhi,Bengaluru,Deluxe,Direct,Family,2024-05-15,2024-02-25,1,3500.0,No-Show,3500.0
+1370,Oberoi Mumbai,Bengaluru,Suite,Travel Agent,Business,2024-03-15,2024-05-25,6,6000.0,Confirmed,36000.0
+1371,ITC Grand Goa,Bengaluru,Executive,Travel Agent,Family,2024-09-26,2024-12-19,4,6000.0,No-Show,24000.0
+1372,ITC Grand Goa,Hyderabad,Standard,OTA,Business,2024-06-30,2024-01-20,5,6000.0,No-Show,30000.0
+1373,Taj Palace Delhi,Goa,Standard,Travel Agent,Business,2024-10-11,2024-02-12,2,8500.0,No-Show,17000.0
+1374,Hyatt Hyderabad,Hyderabad,Deluxe,Travel Agent,Couple,2024-09-08,2024-01-12,2,18000.0,Confirmed,36000.0
+1375,ITC Grand Goa,Jaipur,Executive,OTA,Business,2024-05-05,2024-03-29,7,8500.0,No-Show,59500.0
+1376,Leela Jaipur,Jaipur,Executive,Direct,Couple,2024-05-29,2024-05-12,5,3500.0,No-Show,17500.0
+1377,ITC Grand Goa,Jaipur,Executive,OTA,Family,2024-07-17,2024-10-21,3,18000.0,No-Show,54000.0
+1378,Hyatt Hyderabad,Goa,Standard,Direct,Couple,2024-06-10,2024-03-12,7,6000.0,Cancelled,42000.0
+1379,Leela Jaipur,Mumbai,Suite,OTA,Business,2024-04-09,2024-02-20,4,8500.0,No-Show,34000.0
+1380,Leela Jaipur,Goa,Standard,OTA,Family,2024-09-28,2024-11-05,1,3500.0,Cancelled,3500.0
+1381,Hyatt Hyderabad,Mumbai,Deluxe,Travel Agent,Business,2024-08-11,2024-05-08,5,4500.0,Cancelled,22500.0
+1382,ITC Grand Goa,Bengaluru,Suite,OTA,Solo,2024-10-06,2024-05-06,6,12000.0,Confirmed,72000.0
+1383,Leela Jaipur,Delhi,Deluxe,OTA,Business,2024-05-19,2024-11-18,5,4500.0,Confirmed,22500.0
+1384,Hyatt Hyderabad,Bengaluru,Suite,OTA,Business,2024-04-07,2024-12-29,7,6000.0,Confirmed,42000.0
+1385,Marriott Bengaluru,Mumbai,Suite,Direct,Family,2024-12-30,2024-09-05,4,12000.0,Cancelled,48000.0
+1386,Hyatt Hyderabad,Bengaluru,Deluxe,Direct,Business,2024-07-23,2024-01-13,7,2500.0,Cancelled,17500.0
+1387,Oberoi Mumbai,Goa,Deluxe,Direct,Family,2024-01-15,2024-06-16,1,8500.0,Cancelled,8500.0
+1388,ITC Grand Goa,Delhi,Suite,Direct,Family,2024-11-30,2024-11-25,6,12000.0,No-Show,72000.0
+1389,Leela Jaipur,Bengaluru,Suite,Direct,Solo,2024-06-22,2024-09-20,4,3500.0,No-Show,14000.0
+1390,ITC Grand Goa,Jaipur,Suite,OTA,Couple,2024-10-13,2024-03-17,7,12000.0,No-Show,84000.0
+1391,Hyatt Hyderabad,Jaipur,Standard,Direct,Family,2024-05-08,2024-07-13,3,2500.0,Confirmed,7500.0
+1392,Marriott Bengaluru,Delhi,Deluxe,Direct,Solo,2024-09-07,2024-09-04,5,4500.0,Confirmed,22500.0
+1393,Hyatt Hyderabad,Jaipur,Standard,OTA,Solo,2024-04-26,2024-12-04,6,3500.0,No-Show,21000.0
+1394,ITC Grand Goa,Hyderabad,Deluxe,Direct,Couple,2024-03-30,2024-02-14,7,6000.0,No-Show,42000.0
+1395,Oberoi Mumbai,Hyderabad,Standard,Direct,Business,2024-01-30,2024-06-04,6,12000.0,Confirmed,72000.0
+1396,Leela Jaipur,Jaipur,Executive,OTA,Solo,2024-12-28,2024-03-06,5,4500.0,No-Show,22500.0
+1397,Oberoi Mumbai,Goa,Suite,Direct,Business,2024-09-02,2024-01-24,6,2500.0,No-Show,15000.0
+1398,ITC Grand Goa,Goa,Standard,Travel Agent,Couple,2024-12-19,2024-02-21,3,6000.0,Cancelled,18000.0
+1399,Oberoi Mumbai,Jaipur,Deluxe,Travel Agent,Couple,2024-12-06,2024-11-03,3,3500.0,No-Show,10500.0
+1400,Oberoi Mumbai,Goa,Standard,Travel Agent,Business,2024-06-11,2024-06-22,2,4500.0,Cancelled,9000.0
+1401,Marriott Bengaluru,Goa,Suite,OTA,Couple,2024-06-19,2024-04-07,4,18000.0,No-Show,72000.0
+1402,Leela Jaipur,Jaipur,Standard,Direct,Solo,2024-04-13,2024-09-27,5,2500.0,Confirmed,12500.0
+1403,Taj Palace Delhi,Delhi,Deluxe,OTA,Couple,2024-12-30,2024-04-18,2,4500.0,Cancelled,9000.0
+1404,Marriott Bengaluru,Mumbai,Deluxe,OTA,Couple,2024-10-13,2024-10-03,5,3500.0,Cancelled,17500.0
+1405,Taj Palace Delhi,Goa,Standard,OTA,Couple,2024-11-24,2024-02-02,1,12000.0,No-Show,12000.0
+1406,Leela Jaipur,Goa,Standard,Travel Agent,Solo,2024-11-05,2024-10-09,3,6000.0,No-Show,18000.0
+1407,ITC Grand Goa,Delhi,Executive,Direct,Family,2024-12-24,2024-07-10,4,4500.0,Confirmed,18000.0
+1408,Marriott Bengaluru,Goa,Suite,OTA,Business,2024-10-12,2024-01-24,5,8500.0,Cancelled,42500.0
+1409,Taj Palace Delhi,Goa,Executive,Travel Agent,Solo,2024-08-09,2024-12-23,2,3500.0,Cancelled,7000.0
+1410,Marriott Bengaluru,Mumbai,Deluxe,Direct,Business,2024-10-16,2024-01-29,7,3500.0,Confirmed,24500.0
+1411,Oberoi Mumbai,Mumbai,Suite,Travel Agent,Couple,2024-08-10,2024-10-28,7,18000.0,Confirmed,126000.0
+1412,Marriott Bengaluru,Delhi,Standard,Travel Agent,Business,2024-03-10,2024-03-04,7,2500.0,Cancelled,17500.0
+1413,Leela Jaipur,Delhi,Deluxe,OTA,Solo,2024-09-24,2024-06-28,3,4500.0,Cancelled,13500.0
+1414,ITC Grand Goa,Mumbai,Suite,Travel Agent,Family,2024-05-25,2024-03-12,3,3500.0,No-Show,10500.0
+1415,Hyatt Hyderabad,Mumbai,Suite,Direct,Couple,2024-04-15,2024-04-05,2,6000.0,Cancelled,12000.0
+1416,Hyatt Hyderabad,Jaipur,Suite,Direct,Business,2024-03-07,2024-05-31,1,4500.0,Cancelled,4500.0
+1417,Hyatt Hyderabad,Mumbai,Deluxe,Direct,Solo,2024-02-23,2024-09-02,2,18000.0,No-Show,36000.0
+1418,Oberoi Mumbai,Hyderabad,Standard,OTA,Business,2024-06-07,2024-09-08,7,3500.0,Confirmed,24500.0
+1419,Oberoi Mumbai,Goa,Standard,OTA,Business,2024-10-10,2024-05-14,1,4500.0,Confirmed,4500.0
+1420,Leela Jaipur,Bengaluru,Deluxe,Direct,Business,2024-03-25,2024-01-13,2,4500.0,No-Show,9000.0
+1421,ITC Grand Goa,Goa,Deluxe,Travel Agent,Business,2024-02-06,2024-10-27,3,8500.0,No-Show,25500.0
+1422,Leela Jaipur,Mumbai,Executive,OTA,Solo,2024-02-10,2024-01-19,2,6000.0,Cancelled,12000.0
+1423,Leela Jaipur,Mumbai,Executive,Travel Agent,Family,2024-03-02,2024-02-02,1,4500.0,No-Show,4500.0
+1424,ITC Grand Goa,Goa,Suite,OTA,Solo,2024-06-17,2024-11-24,1,18000.0,Cancelled,18000.0
+1425,Oberoi Mumbai,Hyderabad,Standard,Direct,Family,2024-04-09,2024-06-16,7,3500.0,Confirmed,24500.0
+1426,ITC Grand Goa,Jaipur,Standard,Direct,Solo,2024-02-23,2024-07-20,5,6000.0,No-Show,30000.0
+1427,Leela Jaipur,Mumbai,Suite,Travel Agent,Solo,2024-12-19,2024-11-11,1,4500.0,Cancelled,4500.0
+1428,Marriott Bengaluru,Hyderabad,Suite,Direct,Business,2024-10-13,2024-09-14,4,12000.0,Confirmed,48000.0
+1429,Leela Jaipur,Goa,Suite,OTA,Business,2024-05-02,2024-02-09,6,18000.0,Confirmed,108000.0
+1430,Marriott Bengaluru,Bengaluru,Executive,Direct,Business,2024-01-19,2024-02-14,4,8500.0,No-Show,34000.0
+1431,Hyatt Hyderabad,Mumbai,Executive,Travel Agent,Couple,2024-02-24,2024-05-02,4,12000.0,No-Show,48000.0
+1432,Leela Jaipur,Hyderabad,Suite,Direct,Family,2024-07-29,2024-11-03,5,4500.0,No-Show,22500.0
+1433,Marriott Bengaluru,Delhi,Suite,OTA,Family,2024-03-11,2024-03-19,2,18000.0,No-Show,36000.0
+1434,Hyatt Hyderabad,Hyderabad,Executive,OTA,Business,2024-08-31,2024-04-08,7,2500.0,Cancelled,17500.0
+1435,ITC Grand Goa,Bengaluru,Suite,Travel Agent,Solo,2024-07-23,2024-01-16,4,6000.0,No-Show,24000.0
+1436,Oberoi Mumbai,Jaipur,Deluxe,Travel Agent,Business,2024-03-29,2024-05-21,2,4500.0,Confirmed,9000.0
+1437,ITC Grand Goa,Goa,Executive,OTA,Family,2024-04-04,2024-05-13,3,6000.0,No-Show,18000.0
+1438,Marriott Bengaluru,Delhi,Executive,OTA,Solo,2024-04-17,2024-05-25,7,3500.0,No-Show,24500.0
+1439,Leela Jaipur,Goa,Executive,Direct,Family,2024-04-22,2024-07-03,2,8500.0,Confirmed,17000.0
+1440,Leela Jaipur,Goa,Deluxe,Travel Agent,Business,2024-09-25,2024-03-26,4,4500.0,No-Show,18000.0
+1441,Marriott Bengaluru,Mumbai,Deluxe,Travel Agent,Couple,2024-03-26,2024-08-28,7,4500.0,No-Show,31500.0
+1442,Hyatt Hyderabad,Delhi,Suite,Direct,Business,2024-10-12,2024-10-07,4,3500.0,Confirmed,14000.0
+1443,Hyatt Hyderabad,Delhi,Standard,OTA,Couple,2024-04-14,2024-11-23,1,12000.0,Confirmed,12000.0
+1444,Oberoi Mumbai,Hyderabad,Deluxe,Travel Agent,Business,2024-05-20,2024-06-16,3,18000.0,Cancelled,54000.0
+1445,Oberoi Mumbai,Bengaluru,Executive,OTA,Family,2024-07-16,2024-10-11,6,18000.0,Cancelled,108000.0
+1446,Leela Jaipur,Goa,Suite,OTA,Business,2024-04-21,2024-04-29,2,6000.0,No-Show,12000.0
+1447,Leela Jaipur,Goa,Suite,OTA,Business,2024-01-15,2024-03-01,6,4500.0,Confirmed,27000.0
+1448,Oberoi Mumbai,Jaipur,Executive,Direct,Business,2024-04-08,2024-11-07,2,3500.0,Confirmed,7000.0
+1449,Marriott Bengaluru,Hyderabad,Deluxe,Direct,Family,2024-03-27,2024-09-27,6,8500.0,No-Show,51000.0
+1450,Hyatt Hyderabad,Bengaluru,Deluxe,Travel Agent,Family,2024-01-18,2024-05-26,7,3500.0,No-Show,24500.0
+1451,Leela Jaipur,Delhi,Standard,Travel Agent,Couple,2024-08-06,2024-09-22,5,3500.0,Confirmed,17500.0
+1452,Hyatt Hyderabad,Delhi,Suite,OTA,Couple,2024-06-24,2024-06-28,5,12000.0,Confirmed,60000.0
+1453,Hyatt Hyderabad,Bengaluru,Executive,OTA,Family,2024-04-20,2024-10-11,1,8500.0,Cancelled,8500.0
+1454,Marriott Bengaluru,Delhi,Standard,Direct,Family,2024-08-11,2024-06-27,4,12000.0,No-Show,48000.0
+1455,ITC Grand Goa,Bengaluru,Standard,Travel Agent,Solo,2024-06-10,2024-06-11,6,3500.0,Confirmed,21000.0
+1456,Oberoi Mumbai,Delhi,Executive,OTA,Couple,2024-11-07,2024-08-12,5,12000.0,Confirmed,60000.0
+1457,ITC Grand Goa,Bengaluru,Deluxe,OTA,Business,2024-01-12,2024-04-10,2,2500.0,Cancelled,5000.0
+1458,Oberoi Mumbai,Hyderabad,Standard,OTA,Family,2024-07-13,2024-04-13,5,4500.0,No-Show,22500.0
+1459,Hyatt Hyderabad,Jaipur,Deluxe,Travel Agent,Family,2024-06-12,2024-12-30,6,2500.0,No-Show,15000.0
+1460,Taj Palace Delhi,Jaipur,Executive,Direct,Business,2024-05-17,2024-08-30,1,12000.0,Confirmed,12000.0
+1461,Marriott Bengaluru,Bengaluru,Standard,Direct,Solo,2024-06-13,2024-06-24,3,4500.0,No-Show,13500.0
+1462,Leela Jaipur,Goa,Executive,OTA,Business,2024-08-19,2024-09-25,3,2500.0,Cancelled,7500.0
+1463,Hyatt Hyderabad,Goa,Executive,Travel Agent,Couple,2024-09-27,2024-12-08,7,18000.0,Confirmed,126000.0
+1464,Leela Jaipur,Jaipur,Suite,Travel Agent,Couple,2024-09-30,2024-11-30,2,8500.0,Confirmed,17000.0
+1465,Oberoi Mumbai,Goa,Suite,Travel Agent,Couple,2024-03-06,2024-01-06,1,2500.0,Cancelled,2500.0
+1466,Leela Jaipur,Hyderabad,Suite,Travel Agent,Family,2024-09-15,2024-07-15,7,12000.0,No-Show,84000.0
+1467,Leela Jaipur,Delhi,Suite,OTA,Couple,2024-09-15,2024-07-30,3,3500.0,No-Show,10500.0
+1468,Taj Palace Delhi,Mumbai,Deluxe,Travel Agent,Business,2024-08-28,2024-04-30,6,6000.0,No-Show,36000.0
+1469,Marriott Bengaluru,Delhi,Executive,Direct,Family,2024-12-17,2024-04-12,2,3500.0,No-Show,7000.0
+1470,Hyatt Hyderabad,Delhi,Suite,Direct,Business,2024-11-16,2024-05-13,6,4500.0,Cancelled,27000.0
+1471,Marriott Bengaluru,Hyderabad,Executive,OTA,Family,2024-10-28,2024-08-22,2,18000.0,No-Show,36000.0
+1472,Taj Palace Delhi,Bengaluru,Suite,Direct,Business,2024-10-12,2024-02-01,1,2500.0,Cancelled,2500.0
+1473,Taj Palace Delhi,Jaipur,Suite,Direct,Business,2024-03-03,2024-12-12,6,3500.0,No-Show,21000.0
+1474,Hyatt Hyderabad,Delhi,Deluxe,Travel Agent,Family,2024-12-09,2024-12-23,4,18000.0,Cancelled,72000.0
+1475,Marriott Bengaluru,Mumbai,Deluxe,OTA,Couple,2024-10-18,2024-12-19,2,12000.0,Confirmed,24000.0
+1476,Oberoi Mumbai,Mumbai,Executive,Travel Agent,Family,2024-09-23,2024-03-16,6,2500.0,No-Show,15000.0
+1477,ITC Grand Goa,Goa,Executive,Travel Agent,Solo,2024-04-25,2024-04-01,7,8500.0,Confirmed,59500.0
+1478,Marriott Bengaluru,Delhi,Standard,OTA,Solo,2024-04-10,2024-05-11,6,2500.0,Cancelled,15000.0
+1479,ITC Grand Goa,Jaipur,Suite,OTA,Couple,2024-08-08,2024-11-14,7,12000.0,No-Show,84000.0
+1480,Leela Jaipur,Mumbai,Deluxe,OTA,Couple,2024-01-05,2024-11-06,3,6000.0,Confirmed,18000.0
+1481,Leela Jaipur,Hyderabad,Suite,OTA,Couple,2024-05-13,2024-03-20,5,4500.0,Cancelled,22500.0
+1482,Oberoi Mumbai,Goa,Suite,Direct,Solo,2024-06-17,2024-05-05,1,12000.0,Confirmed,12000.0
+1483,Hyatt Hyderabad,Goa,Suite,Direct,Couple,2024-04-18,2024-09-08,2,12000.0,Confirmed,24000.0
+1484,Leela Jaipur,Mumbai,Standard,Travel Agent,Couple,2024-12-20,2024-04-17,7,12000.0,Confirmed,84000.0
+1485,Oberoi Mumbai,Jaipur,Suite,OTA,Family,2024-09-01,2024-05-24,7,6000.0,Confirmed,42000.0
+1486,ITC Grand Goa,Jaipur,Executive,OTA,Couple,2024-07-10,2024-10-01,5,8500.0,No-Show,42500.0
+1487,Marriott Bengaluru,Delhi,Executive,Travel Agent,Couple,2024-06-18,2024-05-24,3,8500.0,No-Show,25500.0
+1488,ITC Grand Goa,Jaipur,Suite,OTA,Solo,2024-03-04,2024-10-09,1,18000.0,Cancelled,18000.0
+1489,Taj Palace Delhi,Delhi,Deluxe,Direct,Solo,2024-10-25,2024-04-28,6,3500.0,No-Show,21000.0
+1490,Leela Jaipur,Mumbai,Standard,OTA,Family,2024-11-09,2024-09-24,7,2500.0,Confirmed,17500.0
+1491,Marriott Bengaluru,Hyderabad,Standard,OTA,Family,2024-12-02,2024-03-27,5,18000.0,Cancelled,90000.0
+1492,Marriott Bengaluru,Delhi,Suite,Direct,Family,2024-04-17,2024-05-13,3,8500.0,Cancelled,25500.0
+1493,Marriott Bengaluru,Jaipur,Executive,Travel Agent,Business,2024-05-11,2024-01-30,1,6000.0,No-Show,6000.0
+1494,ITC Grand Goa,Goa,Deluxe,Direct,Couple,2024-09-20,2024-11-04,3,18000.0,No-Show,54000.0
+1495,Leela Jaipur,Bengaluru,Suite,Direct,Family,2024-08-03,2024-03-27,4,18000.0,Cancelled,72000.0
+1496,Hyatt Hyderabad,Bengaluru,Suite,OTA,Family,2024-05-07,2024-08-03,4,12000.0,Confirmed,48000.0
+1497,Hyatt Hyderabad,Bengaluru,Standard,OTA,Solo,2024-05-11,2024-12-19,5,2500.0,No-Show,12500.0
+1498,Hyatt Hyderabad,Hyderabad,Suite,Direct,Solo,2024-07-02,2024-06-19,5,8500.0,No-Show,42500.0
+1499,Leela Jaipur,Goa,Deluxe,Travel Agent,Couple,2024-02-03,2024-08-22,7,4500.0,Confirmed,31500.0
+1500,Hyatt Hyderabad,Jaipur,Executive,Direct,Solo,2024-01-12,2024-02-15,3,2500.0,No-Show,7500.0
+1501,Leela Jaipur,Jaipur,Standard,Travel Agent,Solo,2024-11-08,2024-03-24,5,2500.0,Cancelled,12500.0
+1502,Hyatt Hyderabad,Bengaluru,Standard,Direct,Family,2024-06-12,2024-12-13,1,6000.0,Cancelled,6000.0
+1503,Marriott Bengaluru,Jaipur,Executive,Travel Agent,Couple,2024-12-05,2024-03-25,3,12000.0,No-Show,36000.0
+1504,Hyatt Hyderabad,Hyderabad,Executive,Direct,Couple,2024-12-12,2024-12-17,1,18000.0,Cancelled,18000.0
+1505,Oberoi Mumbai,Mumbai,Suite,Travel Agent,Solo,2024-10-01,2024-12-20,6,2500.0,No-Show,15000.0
+1506,Marriott Bengaluru,Bengaluru,Executive,Direct,Family,2024-01-05,2024-02-19,1,18000.0,No-Show,18000.0
+1507,Leela Jaipur,Bengaluru,Executive,OTA,Solo,2024-03-21,2024-03-31,7,4500.0,Cancelled,31500.0
+1508,Marriott Bengaluru,Delhi,Executive,Direct,Solo,2024-12-14,2024-03-15,6,4500.0,No-Show,27000.0
+1509,Leela Jaipur,Bengaluru,Standard,OTA,Couple,2024-05-28,2024-10-22,2,12000.0,Confirmed,24000.0
+1510,Leela Jaipur,Bengaluru,Deluxe,Direct,Solo,2024-08-30,2024-10-19,5,8500.0,Cancelled,42500.0
+1511,Taj Palace Delhi,Mumbai,Standard,Travel Agent,Solo,2024-04-20,2024-09-13,1,3500.0,Cancelled,3500.0
+1512,Taj Palace Delhi,Goa,Executive,OTA,Family,2024-05-13,2024-02-20,2,8500.0,No-Show,17000.0
+1513,Marriott Bengaluru,Hyderabad,Suite,OTA,Family,2024-08-01,2024-02-28,7,8500.0,Cancelled,59500.0
+1514,Oberoi Mumbai,Hyderabad,Executive,OTA,Couple,2024-12-03,2024-02-16,3,4500.0,Cancelled,13500.0
+1515,Hyatt Hyderabad,Bengaluru,Executive,OTA,Couple,2024-10-29,2024-03-28,1,6000.0,No-Show,6000.0
+1516,Marriott Bengaluru,Delhi,Suite,Direct,Solo,2024-10-02,2024-06-05,7,18000.0,Confirmed,126000.0
+1517,Hyatt Hyderabad,Hyderabad,Executive,Direct,Family,2024-04-28,2024-10-06,6,6000.0,Confirmed,36000.0
+1518,Taj Palace Delhi,Delhi,Suite,OTA,Couple,2024-01-08,2024-06-28,2,12000.0,Confirmed,24000.0
+1519,Hyatt Hyderabad,Hyderabad,Deluxe,Travel Agent,Couple,2024-02-03,2024-10-16,7,4500.0,Confirmed,31500.0
+1520,Taj Palace Delhi,Goa,Suite,Direct,Solo,2024-10-15,2024-01-12,3,3500.0,Confirmed,10500.0
+1521,ITC Grand Goa,Mumbai,Executive,Direct,Family,2024-09-17,2024-02-05,4,8500.0,Cancelled,34000.0
+1522,Marriott Bengaluru,Hyderabad,Executive,OTA,Family,2024-06-03,2024-04-28,5,4500.0,Confirmed,22500.0
+1523,Oberoi Mumbai,Mumbai,Deluxe,OTA,Family,2024-08-22,2024-06-12,7,4500.0,No-Show,31500.0
+1524,Hyatt Hyderabad,Hyderabad,Suite,OTA,Couple,2024-08-03,2024-07-05,5,12000.0,No-Show,60000.0
+1525,ITC Grand Goa,Delhi,Executive,Travel Agent,Family,2024-10-25,2024-04-16,6,2500.0,Confirmed,15000.0
+1526,Hyatt Hyderabad,Mumbai,Standard,OTA,Family,2024-06-26,2024-10-19,5,18000.0,Confirmed,90000.0
+1527,Taj Palace Delhi,Delhi,Deluxe,OTA,Solo,2024-06-13,2024-02-29,7,12000.0,Confirmed,84000.0
+1528,Marriott Bengaluru,Hyderabad,Executive,Travel Agent,Family,2024-01-24,2024-01-15,4,4500.0,Cancelled,18000.0
+1529,Oberoi Mumbai,Goa,Suite,Direct,Family,2024-05-08,2024-03-29,2,4500.0,Cancelled,9000.0
+1530,Oberoi Mumbai,Bengaluru,Deluxe,OTA,Family,2024-10-26,2024-10-26,2,18000.0,Confirmed,36000.0
+1531,Leela Jaipur,Hyderabad,Executive,OTA,Family,2024-01-10,2024-06-04,7,8500.0,Confirmed,59500.0
+1532,Oberoi Mumbai,Hyderabad,Executive,Direct,Family,2024-01-01,2024-10-16,5,3500.0,No-Show,17500.0
+1533,Marriott Bengaluru,Bengaluru,Suite,Direct,Solo,2024-09-16,2024-02-16,7,3500.0,Cancelled,24500.0
+1534,Marriott Bengaluru,Mumbai,Suite,Travel Agent,Family,2024-10-10,2024-01-13,1,6000.0,Confirmed,6000.0
+1535,Taj Palace Delhi,Goa,Standard,OTA,Family,2024-09-14,2024-09-05,1,12000.0,No-Show,12000.0
+1536,Leela Jaipur,Hyderabad,Standard,OTA,Family,2024-10-22,2024-01-08,3,6000.0,No-Show,18000.0
+1537,Hyatt Hyderabad,Delhi,Standard,OTA,Business,2024-01-10,2024-04-06,3,12000.0,Cancelled,36000.0
+1538,Marriott Bengaluru,Bengaluru,Executive,Direct,Couple,2024-09-02,2024-02-09,4,2500.0,Confirmed,10000.0
+1539,Hyatt Hyderabad,Mumbai,Executive,Travel Agent,Family,2024-03-13,2024-09-13,1,2500.0,Confirmed,2500.0
+1540,Taj Palace Delhi,Jaipur,Executive,OTA,Couple,2024-07-17,2024-03-10,7,18000.0,No-Show,126000.0
+1541,Hyatt Hyderabad,Jaipur,Standard,Travel Agent,Family,2024-03-07,2024-07-18,7,2500.0,No-Show,17500.0
+1542,Hyatt Hyderabad,Goa,Standard,Travel Agent,Family,2024-12-07,2024-04-27,2,4500.0,No-Show,9000.0
+1543,Hyatt Hyderabad,Mumbai,Suite,OTA,Solo,2024-11-30,2024-03-17,2,4500.0,Confirmed,9000.0
+1544,Marriott Bengaluru,Jaipur,Deluxe,Direct,Couple,2024-07-24,2024-06-16,1,8500.0,Confirmed,8500.0
+1545,Marriott Bengaluru,Hyderabad,Executive,Direct,Couple,2024-07-25,2024-03-15,3,2500.0,No-Show,7500.0
+1546,ITC Grand Goa,Mumbai,Suite,Direct,Solo,2024-01-19,2024-05-13,5,6000.0,No-Show,30000.0
+1547,Hyatt Hyderabad,Bengaluru,Executive,Travel Agent,Solo,2024-07-12,2024-05-27,4,8500.0,Confirmed,34000.0
+1548,Taj Palace Delhi,Mumbai,Executive,Travel Agent,Solo,2024-02-04,2024-10-23,6,6000.0,Cancelled,36000.0
+1549,Leela Jaipur,Bengaluru,Executive,OTA,Family,2024-07-18,2024-03-24,1,2500.0,No-Show,2500.0
+1550,Taj Palace Delhi,Jaipur,Standard,OTA,Couple,2024-11-06,2024-07-17,7,8500.0,No-Show,59500.0
+1551,Oberoi Mumbai,Hyderabad,Deluxe,OTA,Solo,2024-10-11,2024-04-26,5,12000.0,Cancelled,60000.0
+1552,Leela Jaipur,Delhi,Standard,Travel Agent,Family,2024-08-17,2024-12-14,7,2500.0,Confirmed,17500.0
+1553,Marriott Bengaluru,Jaipur,Deluxe,Direct,Solo,2024-05-17,2024-12-31,4,4500.0,No-Show,18000.0
+1554,Oberoi Mumbai,Mumbai,Suite,OTA,Couple,2024-08-25,2024-03-13,1,6000.0,Cancelled,6000.0
+1555,Leela Jaipur,Hyderabad,Suite,Direct,Solo,2024-01-27,2024-06-19,4,12000.0,Cancelled,48000.0
+1556,Taj Palace Delhi,Mumbai,Suite,Travel Agent,Solo,2024-06-19,2024-08-06,1,12000.0,Confirmed,12000.0
+1557,Oberoi Mumbai,Hyderabad,Deluxe,Direct,Business,2024-04-21,2024-11-18,2,4500.0,No-Show,9000.0
+1558,Leela Jaipur,Delhi,Executive,Travel Agent,Family,2024-09-01,2024-05-18,7,6000.0,Cancelled,42000.0
+1559,Marriott Bengaluru,Bengaluru,Executive,OTA,Business,2024-10-06,2024-04-23,1,8500.0,No-Show,8500.0
+1560,Oberoi Mumbai,Hyderabad,Executive,Travel Agent,Solo,2024-11-23,2024-02-29,4,12000.0,No-Show,48000.0
+1561,Hyatt Hyderabad,Mumbai,Deluxe,OTA,Business,2024-05-31,2024-06-29,4,6000.0,Confirmed,24000.0
+1562,Taj Palace Delhi,Jaipur,Deluxe,Direct,Family,2024-03-04,2024-11-28,7,8500.0,Cancelled,59500.0
+1563,Leela Jaipur,Goa,Suite,Direct,Family,2024-01-03,2024-06-03,6,18000.0,No-Show,108000.0
+1564,ITC Grand Goa,Bengaluru,Deluxe,Direct,Family,2024-04-03,2024-11-25,4,12000.0,Cancelled,48000.0
+1565,ITC Grand Goa,Jaipur,Executive,OTA,Couple,2024-09-05,2024-05-05,4,3500.0,Confirmed,14000.0
+1566,Leela Jaipur,Goa,Suite,OTA,Solo,2024-05-10,2024-08-28,1,4500.0,Cancelled,4500.0
+1567,Leela Jaipur,Mumbai,Deluxe,OTA,Couple,2024-02-19,2024-06-02,4,12000.0,Cancelled,48000.0
+1568,ITC Grand Goa,Jaipur,Suite,Direct,Family,2024-05-15,2024-12-24,6,18000.0,Cancelled,108000.0
+1569,Leela Jaipur,Jaipur,Standard,Travel Agent,Solo,2024-01-04,2024-03-01,5,2500.0,No-Show,12500.0
+1570,Marriott Bengaluru,Delhi,Deluxe,Travel Agent,Couple,2024-02-27,2024-07-22,5,3500.0,No-Show,17500.0
+1571,ITC Grand Goa,Hyderabad,Deluxe,Direct,Solo,2024-05-03,2024-04-10,7,4500.0,Cancelled,31500.0
+1572,Oberoi Mumbai,Bengaluru,Deluxe,Travel Agent,Solo,2024-11-24,2024-05-13,3,6000.0,Confirmed,18000.0
+1573,Leela Jaipur,Hyderabad,Deluxe,Travel Agent,Solo,2024-06-09,2024-02-09,2,12000.0,Confirmed,24000.0
+1574,Hyatt Hyderabad,Delhi,Suite,OTA,Family,2024-02-14,2024-12-20,5,8500.0,Cancelled,42500.0
+1575,ITC Grand Goa,Hyderabad,Deluxe,OTA,Solo,2024-12-01,2024-06-18,5,2500.0,Cancelled,12500.0
+1576,Marriott Bengaluru,Goa,Executive,OTA,Business,2024-02-03,2024-02-24,3,8500.0,Cancelled,25500.0
+1577,Leela Jaipur,Delhi,Deluxe,Direct,Business,2024-12-29,2024-09-23,4,6000.0,Confirmed,24000.0
+1578,Hyatt Hyderabad,Bengaluru,Suite,Direct,Solo,2024-05-12,2024-05-22,7,3500.0,Confirmed,24500.0
+1579,Marriott Bengaluru,Jaipur,Deluxe,Travel Agent,Family,2024-04-06,2024-11-12,2,2500.0,Cancelled,5000.0
+1580,Marriott Bengaluru,Delhi,Executive,OTA,Couple,2024-10-04,2024-09-09,3,18000.0,No-Show,54000.0
+1581,ITC Grand Goa,Goa,Executive,OTA,Business,2024-09-12,2024-10-16,1,3500.0,Confirmed,3500.0
+1582,Marriott Bengaluru,Bengaluru,Standard,Travel Agent,Business,2024-08-18,2024-11-23,4,18000.0,No-Show,72000.0
+1583,ITC Grand Goa,Delhi,Suite,OTA,Business,2024-11-09,2024-04-02,7,4500.0,Cancelled,31500.0
+1584,ITC Grand Goa,Bengaluru,Standard,Direct,Couple,2024-12-07,2024-02-24,2,8500.0,Confirmed,17000.0
+1585,Hyatt Hyderabad,Goa,Deluxe,Travel Agent,Solo,2024-06-02,2024-01-27,4,18000.0,Cancelled,72000.0
+1586,Taj Palace Delhi,Jaipur,Executive,Direct,Couple,2024-10-19,2024-04-18,2,6000.0,No-Show,12000.0
+1587,Taj Palace Delhi,Mumbai,Suite,OTA,Couple,2024-09-21,2024-11-30,7,8500.0,Cancelled,59500.0
+1588,Hyatt Hyderabad,Delhi,Standard,Direct,Family,2024-11-01,2024-03-10,2,4500.0,No-Show,9000.0
+1589,Marriott Bengaluru,Mumbai,Deluxe,Travel Agent,Couple,2024-12-13,2024-07-03,5,8500.0,Confirmed,42500.0
+1590,Oberoi Mumbai,Goa,Executive,Direct,Couple,2024-03-31,2024-09-05,4,4500.0,Cancelled,18000.0
+1591,Taj Palace Delhi,Goa,Standard,Travel Agent,Solo,2024-01-31,2024-12-26,5,3500.0,No-Show,17500.0
+1592,Leela Jaipur,Goa,Standard,Direct,Business,2024-09-08,2024-11-14,3,2500.0,No-Show,7500.0
+1593,Leela Jaipur,Delhi,Suite,Travel Agent,Couple,2024-08-18,2024-04-21,5,2500.0,Confirmed,12500.0
+1594,Taj Palace Delhi,Delhi,Suite,Direct,Family,2024-03-31,2024-04-10,5,6000.0,Cancelled,30000.0
+1595,Marriott Bengaluru,Delhi,Standard,OTA,Family,2024-06-19,2024-05-18,3,18000.0,Confirmed,54000.0
+1596,ITC Grand Goa,Hyderabad,Standard,Direct,Business,2024-07-14,2024-01-05,3,8500.0,Confirmed,25500.0
+1597,Marriott Bengaluru,Bengaluru,Executive,Direct,Solo,2024-03-19,2024-03-17,6,4500.0,Confirmed,27000.0
+1598,Hyatt Hyderabad,Jaipur,Suite,Direct,Business,2024-03-02,2024-10-21,4,8500.0,No-Show,34000.0
+1599,Hyatt Hyderabad,Hyderabad,Suite,Travel Agent,Family,2024-10-12,2024-01-13,3,3500.0,No-Show,10500.0
+1600,Marriott Bengaluru,Goa,Suite,OTA,Business,2024-10-29,2024-04-27,3,12000.0,Confirmed,36000.0
+1601,Marriott Bengaluru,Mumbai,Executive,Travel Agent,Business,2024-08-29,2024-09-04,1,3500.0,No-Show,3500.0
+1602,Hyatt Hyderabad,Bengaluru,Standard,Direct,Couple,2024-09-30,2024-02-12,3,3500.0,Cancelled,10500.0
+1603,Marriott Bengaluru,Goa,Standard,Travel Agent,Family,2024-04-28,2024-04-22,3,18000.0,No-Show,54000.0
+1604,Oberoi Mumbai,Goa,Standard,Direct,Couple,2024-04-12,2024-08-02,3,6000.0,Confirmed,18000.0
+1605,Hyatt Hyderabad,Hyderabad,Standard,Travel Agent,Family,2024-08-06,2024-05-12,4,12000.0,Cancelled,48000.0
+1606,Oberoi Mumbai,Bengaluru,Executive,Travel Agent,Family,2024-10-30,2024-08-31,7,18000.0,Cancelled,126000.0
+1607,Oberoi Mumbai,Mumbai,Executive,OTA,Couple,2024-07-03,2024-02-22,2,4500.0,No-Show,9000.0
+1608,Hyatt Hyderabad,Goa,Executive,Direct,Solo,2024-03-02,2024-03-06,6,18000.0,No-Show,108000.0
+1609,ITC Grand Goa,Hyderabad,Standard,Direct,Family,2024-11-08,2024-09-26,5,12000.0,No-Show,60000.0
+1610,Marriott Bengaluru,Bengaluru,Standard,Direct,Family,2024-02-27,2024-01-22,3,8500.0,No-Show,25500.0
+1611,ITC Grand Goa,Jaipur,Executive,Travel Agent,Solo,2024-08-05,2024-09-02,5,2500.0,Cancelled,12500.0
+1612,Taj Palace Delhi,Hyderabad,Executive,Direct,Solo,2024-04-21,2024-07-15,2,6000.0,No-Show,12000.0
+1613,Hyatt Hyderabad,Goa,Suite,OTA,Couple,2024-01-24,2024-06-18,3,3500.0,Cancelled,10500.0
+1614,Hyatt Hyderabad,Hyderabad,Executive,OTA,Solo,2024-02-02,2024-02-15,7,3500.0,Confirmed,24500.0
+1615,Taj Palace Delhi,Goa,Executive,Direct,Solo,2024-04-03,2024-09-22,7,4500.0,No-Show,31500.0
+1616,Taj Palace Delhi,Hyderabad,Standard,Direct,Business,2024-04-13,2024-06-18,6,6000.0,Cancelled,36000.0
+1617,Leela Jaipur,Hyderabad,Standard,Direct,Couple,2024-09-28,2024-11-30,6,4500.0,Cancelled,27000.0
+1618,Hyatt Hyderabad,Delhi,Executive,Travel Agent,Business,2024-07-20,2024-10-03,3,8500.0,Cancelled,25500.0
+1619,Leela Jaipur,Bengaluru,Deluxe,OTA,Family,2024-04-01,2024-04-03,1,2500.0,Confirmed,2500.0
+1620,Taj Palace Delhi,Bengaluru,Deluxe,OTA,Family,2024-04-06,2024-10-15,1,3500.0,No-Show,3500.0
+1621,Leela Jaipur,Goa,Suite,Direct,Solo,2024-01-07,2024-06-18,6,18000.0,Cancelled,108000.0
+1622,Oberoi Mumbai,Hyderabad,Executive,Direct,Couple,2024-11-20,2024-10-31,1,8500.0,Cancelled,8500.0
+1623,Leela Jaipur,Goa,Executive,Direct,Family,2024-01-09,2024-04-07,6,18000.0,Cancelled,108000.0
+1624,ITC Grand Goa,Mumbai,Executive,OTA,Family,2024-09-29,2024-06-02,4,18000.0,Cancelled,72000.0
+1625,Leela Jaipur,Delhi,Deluxe,Travel Agent,Family,2024-12-20,2024-01-06,7,2500.0,Confirmed,17500.0
+1626,ITC Grand Goa,Goa,Suite,Travel Agent,Solo,2024-07-22,2024-06-16,6,6000.0,No-Show,36000.0
+1627,Hyatt Hyderabad,Bengaluru,Standard,OTA,Solo,2024-12-11,2024-05-26,4,3500.0,Cancelled,14000.0
+1628,Oberoi Mumbai,Mumbai,Executive,Direct,Couple,2024-01-03,2024-05-24,5,12000.0,Cancelled,60000.0
+1629,ITC Grand Goa,Hyderabad,Deluxe,OTA,Couple,2024-07-12,2024-09-25,1,8500.0,Cancelled,8500.0
+1630,Taj Palace Delhi,Goa,Executive,Direct,Family,2024-03-02,2024-09-18,7,3500.0,Confirmed,24500.0
+1631,Taj Palace Delhi,Bengaluru,Standard,OTA,Couple,2024-02-22,2024-08-20,5,2500.0,No-Show,12500.0
+1632,ITC Grand Goa,Bengaluru,Suite,OTA,Couple,2024-04-22,2024-07-08,6,8500.0,Cancelled,51000.0
+1633,Leela Jaipur,Delhi,Deluxe,Direct,Family,2024-06-25,2024-12-28,7,6000.0,No-Show,42000.0
+1634,Leela Jaipur,Bengaluru,Standard,Direct,Family,2024-10-30,2024-06-18,4,4500.0,Confirmed,18000.0
+1635,Taj Palace Delhi,Bengaluru,Executive,Travel Agent,Family,2024-03-18,2024-09-03,1,12000.0,Confirmed,12000.0
+1636,Leela Jaipur,Hyderabad,Deluxe,Travel Agent,Solo,2024-09-26,2024-07-23,3,8500.0,Confirmed,25500.0
+1637,Leela Jaipur,Bengaluru,Suite,Travel Agent,Couple,2024-01-18,2024-10-15,7,8500.0,Confirmed,59500.0
+1638,Hyatt Hyderabad,Mumbai,Deluxe,Travel Agent,Solo,2024-02-01,2024-01-05,5,12000.0,Cancelled,60000.0
+1639,Marriott Bengaluru,Jaipur,Executive,OTA,Solo,2024-11-28,2024-06-01,4,4500.0,Confirmed,18000.0
+1640,ITC Grand Goa,Jaipur,Deluxe,OTA,Business,2024-06-16,2024-06-03,1,8500.0,Confirmed,8500.0
+1641,Oberoi Mumbai,Jaipur,Deluxe,Direct,Couple,2024-07-15,2024-06-03,3,3500.0,Cancelled,10500.0
+1642,Marriott Bengaluru,Mumbai,Executive,Direct,Family,2024-01-29,2024-08-22,5,6000.0,No-Show,30000.0
+1643,Marriott Bengaluru,Mumbai,Executive,Travel Agent,Business,2024-09-28,2024-05-28,3,12000.0,No-Show,36000.0
+1644,Leela Jaipur,Goa,Standard,OTA,Solo,2024-10-16,2024-11-30,6,2500.0,Cancelled,15000.0
+1645,Leela Jaipur,Mumbai,Deluxe,OTA,Couple,2024-08-10,2024-07-18,1,12000.0,Confirmed,12000.0
+1646,Hyatt Hyderabad,Mumbai,Deluxe,Travel Agent,Couple,2024-07-02,2024-11-23,1,4500.0,Cancelled,4500.0
+1647,Marriott Bengaluru,Bengaluru,Standard,OTA,Business,2024-03-20,2024-07-21,7,3500.0,Confirmed,24500.0
+1648,Hyatt Hyderabad,Jaipur,Deluxe,OTA,Couple,2024-11-29,2024-04-01,3,12000.0,No-Show,36000.0
+1649,Hyatt Hyderabad,Delhi,Suite,OTA,Solo,2024-02-04,2024-06-14,3,3500.0,No-Show,10500.0
+1650,Taj Palace Delhi,Delhi,Executive,OTA,Couple,2024-11-27,2024-02-29,6,6000.0,Confirmed,36000.0
+1651,Taj Palace Delhi,Hyderabad,Executive,Direct,Business,2024-11-30,2024-04-20,7,18000.0,Confirmed,126000.0
+1652,ITC Grand Goa,Mumbai,Executive,OTA,Family,2024-05-15,2024-07-17,4,3500.0,Confirmed,14000.0
+1653,ITC Grand Goa,Delhi,Suite,Direct,Solo,2024-01-02,2024-04-02,7,6000.0,Cancelled,42000.0
+1654,Marriott Bengaluru,Hyderabad,Deluxe,Travel Agent,Business,2024-07-30,2024-06-24,1,12000.0,Cancelled,12000.0
+1655,Hyatt Hyderabad,Hyderabad,Executive,OTA,Couple,2024-07-14,2024-08-18,5,12000.0,Cancelled,60000.0
+1656,ITC Grand Goa,Goa,Deluxe,Direct,Couple,2024-04-07,2024-08-28,5,2500.0,Cancelled,12500.0
+1657,Taj Palace Delhi,Delhi,Suite,Travel Agent,Solo,2024-12-04,2024-09-28,2,4500.0,Cancelled,9000.0
+1658,Leela Jaipur,Hyderabad,Standard,Travel Agent,Family,2024-06-11,2024-08-21,2,4500.0,Confirmed,9000.0
+1659,Taj Palace Delhi,Delhi,Deluxe,Direct,Family,2024-03-31,2024-07-03,3,18000.0,Confirmed,54000.0
+1660,ITC Grand Goa,Bengaluru,Standard,Direct,Business,2024-10-14,2024-01-05,3,18000.0,Confirmed,54000.0
+1661,Hyatt Hyderabad,Delhi,Standard,Travel Agent,Couple,2024-05-24,2024-11-01,3,8500.0,Cancelled,25500.0
+1662,Leela Jaipur,Jaipur,Standard,Direct,Couple,2024-11-05,2024-09-20,5,8500.0,No-Show,42500.0
+1663,Taj Palace Delhi,Jaipur,Executive,Travel Agent,Solo,2024-05-09,2024-05-14,7,2500.0,Confirmed,17500.0
+1664,Hyatt Hyderabad,Jaipur,Suite,Travel Agent,Solo,2024-12-20,2024-03-28,5,3500.0,Cancelled,17500.0
+1665,Oberoi Mumbai,Goa,Deluxe,OTA,Business,2024-09-06,2024-10-25,6,2500.0,No-Show,15000.0
+1666,Hyatt Hyderabad,Mumbai,Executive,Direct,Couple,2024-12-23,2024-12-25,4,2500.0,Confirmed,10000.0
+1667,Taj Palace Delhi,Delhi,Suite,Direct,Family,2024-11-29,2024-10-13,4,8500.0,Cancelled,34000.0
+1668,Oberoi Mumbai,Goa,Suite,OTA,Family,2024-03-20,2024-12-10,2,18000.0,Confirmed,36000.0
+1669,ITC Grand Goa,Goa,Executive,Direct,Business,2024-06-09,2024-02-16,2,2500.0,No-Show,5000.0
+1670,Taj Palace Delhi,Mumbai,Standard,OTA,Couple,2024-03-27,2024-11-24,3,2500.0,No-Show,7500.0
+1671,Marriott Bengaluru,Hyderabad,Deluxe,OTA,Business,2024-10-10,2024-08-24,4,18000.0,Confirmed,72000.0
+1672,Taj Palace Delhi,Goa,Standard,Direct,Solo,2024-11-23,2024-11-11,5,3500.0,Cancelled,17500.0
+1673,Taj Palace Delhi,Mumbai,Suite,OTA,Couple,2024-02-03,2024-07-25,7,8500.0,Cancelled,59500.0
+1674,Taj Palace Delhi,Bengaluru,Executive,Direct,Couple,2024-11-24,2024-10-03,7,6000.0,No-Show,42000.0
+1675,Taj Palace Delhi,Bengaluru,Suite,Direct,Couple,2024-10-23,2024-05-17,7,18000.0,Cancelled,126000.0
+1676,Marriott Bengaluru,Goa,Deluxe,Direct,Solo,2024-03-05,2024-08-14,2,3500.0,Cancelled,7000.0
+1677,Marriott Bengaluru,Jaipur,Suite,Direct,Family,2024-08-20,2024-02-16,6,4500.0,No-Show,27000.0
+1678,Taj Palace Delhi,Bengaluru,Deluxe,Direct,Couple,2024-12-09,2024-10-31,6,12000.0,Cancelled,72000.0
+1679,Leela Jaipur,Bengaluru,Executive,Travel Agent,Business,2024-02-10,2024-04-17,2,4500.0,Confirmed,9000.0
+1680,Oberoi Mumbai,Mumbai,Executive,OTA,Solo,2024-10-26,2024-01-27,2,6000.0,Confirmed,12000.0
+1681,Oberoi Mumbai,Mumbai,Suite,OTA,Couple,2024-01-13,2024-10-19,2,18000.0,Confirmed,36000.0
+1682,Hyatt Hyderabad,Hyderabad,Standard,Travel Agent,Business,2024-05-06,2024-08-16,3,18000.0,Confirmed,54000.0
+1683,Marriott Bengaluru,Hyderabad,Executive,OTA,Couple,2024-10-17,2024-01-20,4,2500.0,No-Show,10000.0
+1684,Marriott Bengaluru,Hyderabad,Standard,OTA,Business,2024-08-02,2024-10-14,2,4500.0,Cancelled,9000.0
+1685,Hyatt Hyderabad,Goa,Standard,Direct,Couple,2024-12-03,2024-06-13,2,6000.0,Confirmed,12000.0
+1686,Leela Jaipur,Mumbai,Executive,Direct,Couple,2024-02-16,2024-06-02,2,3500.0,Cancelled,7000.0
+1687,Taj Palace Delhi,Mumbai,Deluxe,OTA,Business,2024-07-22,2024-08-06,7,12000.0,No-Show,84000.0
+1688,Taj Palace Delhi,Bengaluru,Standard,OTA,Family,2024-05-30,2024-09-15,4,4500.0,No-Show,18000.0
+1689,ITC Grand Goa,Mumbai,Deluxe,Direct,Family,2024-09-21,2024-08-04,2,6000.0,No-Show,12000.0
+1690,Hyatt Hyderabad,Goa,Standard,Direct,Business,2024-12-19,2024-11-10,2,8500.0,No-Show,17000.0
+1691,Marriott Bengaluru,Hyderabad,Suite,OTA,Couple,2024-09-28,2024-06-21,7,12000.0,Cancelled,84000.0
+1692,Leela Jaipur,Delhi,Suite,Direct,Couple,2024-10-13,2024-10-28,6,4500.0,Cancelled,27000.0
+1693,Taj Palace Delhi,Mumbai,Standard,OTA,Solo,2024-04-09,2024-08-31,1,4500.0,Confirmed,4500.0
+1694,Oberoi Mumbai,Delhi,Suite,OTA,Family,2024-02-11,2024-02-09,5,8500.0,No-Show,42500.0
+1695,Leela Jaipur,Delhi,Deluxe,Direct,Business,2024-05-24,2024-02-04,4,4500.0,Cancelled,18000.0
+1696,Taj Palace Delhi,Mumbai,Standard,OTA,Couple,2024-11-15,2024-06-29,3,2500.0,Cancelled,7500.0
+1697,ITC Grand Goa,Jaipur,Suite,Travel Agent,Family,2024-02-14,2024-04-08,1,18000.0,Confirmed,18000.0
+1698,Marriott Bengaluru,Bengaluru,Executive,OTA,Family,2024-07-17,2024-12-10,3,18000.0,Cancelled,54000.0
+1699,Oberoi Mumbai,Mumbai,Deluxe,OTA,Solo,2024-11-26,2024-10-11,1,18000.0,Cancelled,18000.0
+1700,Taj Palace Delhi,Delhi,Standard,Travel Agent,Solo,2024-11-19,2024-08-18,2,12000.0,Cancelled,24000.0
+1701,Taj Palace Delhi,Delhi,Executive,Direct,Family,2024-09-21,2024-01-04,2,2500.0,No-Show,5000.0
+1702,Oberoi Mumbai,Bengaluru,Executive,Direct,Family,2024-10-26,2024-08-19,2,8500.0,No-Show,17000.0
+1703,Marriott Bengaluru,Goa,Suite,Direct,Couple,2024-10-16,2024-09-15,7,2500.0,Cancelled,17500.0
+1704,Oberoi Mumbai,Bengaluru,Executive,OTA,Family,2024-02-12,2024-10-14,7,6000.0,No-Show,42000.0
+1705,Marriott Bengaluru,Jaipur,Standard,Direct,Solo,2024-08-12,2024-05-05,2,6000.0,Confirmed,12000.0
+1706,Oberoi Mumbai,Mumbai,Standard,Direct,Solo,2024-01-03,2024-09-24,4,8500.0,No-Show,34000.0
+1707,Hyatt Hyderabad,Hyderabad,Deluxe,Direct,Business,2024-07-23,2024-08-04,5,8500.0,Confirmed,42500.0
+1708,Hyatt Hyderabad,Jaipur,Deluxe,Direct,Family,2024-01-26,2024-09-09,3,18000.0,Confirmed,54000.0
+1709,Marriott Bengaluru,Hyderabad,Suite,OTA,Solo,2024-12-23,2024-03-24,5,12000.0,Confirmed,60000.0
+1710,ITC Grand Goa,Goa,Deluxe,OTA,Family,2024-05-13,2024-04-28,7,18000.0,Confirmed,126000.0
+1711,Oberoi Mumbai,Delhi,Suite,OTA,Solo,2024-09-14,2024-03-06,5,2500.0,Cancelled,12500.0
+1712,Taj Palace Delhi,Bengaluru,Deluxe,Travel Agent,Business,2024-04-21,2024-04-29,4,2500.0,Confirmed,10000.0
+1713,Leela Jaipur,Hyderabad,Executive,OTA,Family,2024-05-07,2024-07-17,5,4500.0,Cancelled,22500.0
+1714,Hyatt Hyderabad,Delhi,Standard,Travel Agent,Solo,2024-02-05,2024-02-22,3,3500.0,Confirmed,10500.0
+1715,Leela Jaipur,Mumbai,Standard,Travel Agent,Solo,2024-06-27,2024-02-07,7,18000.0,No-Show,126000.0
+1716,Taj Palace Delhi,Delhi,Suite,OTA,Business,2024-10-21,2024-07-07,3,6000.0,No-Show,18000.0
+1717,Marriott Bengaluru,Mumbai,Suite,Direct,Business,2024-11-23,2024-07-16,6,18000.0,Confirmed,108000.0
+1718,Marriott Bengaluru,Hyderabad,Deluxe,Direct,Solo,2024-10-22,2024-03-27,7,4500.0,Confirmed,31500.0
+1719,Oberoi Mumbai,Jaipur,Executive,Direct,Couple,2024-03-19,2024-06-09,2,18000.0,Confirmed,36000.0
+1720,Oberoi Mumbai,Goa,Standard,Direct,Couple,2024-06-11,2024-11-05,7,8500.0,Cancelled,59500.0
+1721,ITC Grand Goa,Jaipur,Standard,OTA,Business,2024-05-21,2024-07-12,4,4500.0,No-Show,18000.0
+1722,Hyatt Hyderabad,Mumbai,Executive,OTA,Family,2024-08-15,2024-08-26,5,3500.0,No-Show,17500.0
+1723,Marriott Bengaluru,Delhi,Suite,Direct,Couple,2024-07-28,2024-03-04,5,6000.0,Cancelled,30000.0
+1724,Taj Palace Delhi,Bengaluru,Deluxe,OTA,Business,2024-12-19,2024-09-02,7,18000.0,Cancelled,126000.0
+1725,Marriott Bengaluru,Mumbai,Suite,Direct,Solo,2024-02-25,2024-01-14,7,4500.0,Confirmed,31500.0
+1726,Leela Jaipur,Mumbai,Executive,Direct,Family,2024-12-05,2024-08-14,4,18000.0,Confirmed,72000.0
+1727,ITC Grand Goa,Goa,Suite,Direct,Business,2024-07-06,2024-01-26,2,2500.0,Cancelled,5000.0
+1728,ITC Grand Goa,Hyderabad,Suite,Travel Agent,Family,2024-09-14,2024-11-16,4,18000.0,No-Show,72000.0
+1729,Leela Jaipur,Delhi,Standard,Travel Agent,Couple,2024-12-14,2024-02-11,5,4500.0,Confirmed,22500.0
+1730,Taj Palace Delhi,Jaipur,Executive,Direct,Family,2024-11-25,2024-07-13,5,8500.0,No-Show,42500.0
+1731,Marriott Bengaluru,Hyderabad,Suite,OTA,Family,2024-01-29,2024-09-24,1,4500.0,Confirmed,4500.0
+1732,Taj Palace Delhi,Jaipur,Standard,Travel Agent,Family,2024-10-19,2024-01-31,2,8500.0,Confirmed,17000.0
+1733,Taj Palace Delhi,Hyderabad,Executive,Travel Agent,Family,2024-02-27,2024-08-22,1,6000.0,No-Show,6000.0
+1734,Oberoi Mumbai,Delhi,Executive,Direct,Family,2024-04-10,2024-05-16,7,3500.0,Cancelled,24500.0
+1735,Taj Palace Delhi,Jaipur,Standard,Travel Agent,Couple,2024-11-23,2024-08-28,1,4500.0,No-Show,4500.0
+1736,Oberoi Mumbai,Mumbai,Standard,Travel Agent,Solo,2024-02-28,2024-01-11,4,8500.0,Cancelled,34000.0
+1737,Hyatt Hyderabad,Jaipur,Standard,Travel Agent,Solo,2024-11-18,2024-11-11,5,3500.0,Cancelled,17500.0
+1738,Oberoi Mumbai,Delhi,Standard,OTA,Solo,2024-03-21,2024-01-31,4,2500.0,Cancelled,10000.0
+1739,ITC Grand Goa,Jaipur,Standard,Travel Agent,Family,2024-10-02,2024-01-11,4,6000.0,Confirmed,24000.0
+1740,Oberoi Mumbai,Jaipur,Executive,Direct,Family,2024-08-25,2024-06-24,3,3500.0,No-Show,10500.0
+1741,Taj Palace Delhi,Hyderabad,Executive,Direct,Business,2024-09-02,2024-06-22,3,12000.0,No-Show,36000.0
+1742,Hyatt Hyderabad,Jaipur,Suite,Travel Agent,Family,2024-05-14,2024-02-08,6,3500.0,Confirmed,21000.0
+1743,ITC Grand Goa,Goa,Deluxe,Direct,Couple,2024-03-24,2024-07-26,7,12000.0,Cancelled,84000.0
+1744,ITC Grand Goa,Goa,Executive,Travel Agent,Family,2024-02-29,2024-07-23,3,18000.0,Cancelled,54000.0
+1745,ITC Grand Goa,Mumbai,Deluxe,Direct,Business,2024-03-02,2024-12-08,5,6000.0,Confirmed,30000.0
+1746,ITC Grand Goa,Goa,Executive,Travel Agent,Solo,2024-04-14,2024-03-06,6,18000.0,Confirmed,108000.0
+1747,Taj Palace Delhi,Delhi,Executive,OTA,Family,2024-08-14,2024-09-04,2,3500.0,Confirmed,7000.0
+1748,Hyatt Hyderabad,Mumbai,Standard,OTA,Couple,2024-04-30,2024-12-05,2,18000.0,Confirmed,36000.0
+1749,Marriott Bengaluru,Jaipur,Suite,Travel Agent,Couple,2024-01-01,2024-09-03,3,2500.0,No-Show,7500.0
+1750,Oberoi Mumbai,Mumbai,Executive,Travel Agent,Couple,2024-05-31,2024-03-18,7,12000.0,Cancelled,84000.0
+1751,Marriott Bengaluru,Goa,Suite,Direct,Business,2024-04-04,2024-06-14,5,4500.0,Confirmed,22500.0
+1752,Leela Jaipur,Goa,Suite,Travel Agent,Solo,2024-06-13,2024-09-28,2,18000.0,Confirmed,36000.0
+1753,Leela Jaipur,Hyderabad,Deluxe,OTA,Couple,2024-08-11,2024-04-02,5,4500.0,Confirmed,22500.0
+1754,Marriott Bengaluru,Delhi,Executive,Direct,Family,2024-05-02,2024-08-27,3,4500.0,Cancelled,13500.0
+1755,Oberoi Mumbai,Goa,Suite,Direct,Business,2024-08-06,2024-02-04,6,2500.0,No-Show,15000.0
+1756,Oberoi Mumbai,Mumbai,Deluxe,Travel Agent,Business,2024-05-03,2024-03-06,3,2500.0,Confirmed,7500.0
+1757,Hyatt Hyderabad,Delhi,Standard,OTA,Solo,2024-01-30,2024-11-25,1,18000.0,Cancelled,18000.0
+1758,Leela Jaipur,Mumbai,Suite,Direct,Couple,2024-04-29,2024-09-19,2,4500.0,No-Show,9000.0
+1759,Marriott Bengaluru,Mumbai,Deluxe,OTA,Family,2024-01-30,2024-03-08,2,12000.0,Confirmed,24000.0
+1760,Oberoi Mumbai,Jaipur,Deluxe,Direct,Business,2024-04-24,2024-06-21,5,4500.0,No-Show,22500.0
+1761,ITC Grand Goa,Bengaluru,Suite,OTA,Couple,2024-07-30,2024-12-23,4,3500.0,Cancelled,14000.0
+1762,Hyatt Hyderabad,Hyderabad,Suite,OTA,Business,2024-06-08,2024-04-12,6,6000.0,Cancelled,36000.0
+1763,Hyatt Hyderabad,Hyderabad,Executive,Travel Agent,Business,2024-04-02,2024-04-21,1,8500.0,No-Show,8500.0
+1764,Taj Palace Delhi,Bengaluru,Standard,OTA,Couple,2024-01-14,2024-06-10,7,4500.0,Confirmed,31500.0
+1765,Hyatt Hyderabad,Mumbai,Deluxe,Travel Agent,Family,2024-05-11,2024-06-26,5,8500.0,No-Show,42500.0
+1766,ITC Grand Goa,Delhi,Standard,Direct,Business,2024-04-20,2024-10-24,2,3500.0,Confirmed,7000.0
+1767,Marriott Bengaluru,Bengaluru,Suite,Direct,Couple,2024-12-15,2024-06-29,1,18000.0,No-Show,18000.0
+1768,ITC Grand Goa,Bengaluru,Deluxe,Direct,Business,2024-03-28,2024-12-19,6,4500.0,Cancelled,27000.0
+1769,ITC Grand Goa,Goa,Suite,Direct,Solo,2024-06-25,2024-10-28,1,4500.0,Cancelled,4500.0
+1770,Oberoi Mumbai,Hyderabad,Suite,Travel Agent,Family,2024-04-26,2024-08-22,5,4500.0,Confirmed,22500.0
+1771,Taj Palace Delhi,Jaipur,Deluxe,Travel Agent,Business,2024-08-05,2024-01-21,6,12000.0,Confirmed,72000.0
+1772,Taj Palace Delhi,Hyderabad,Deluxe,Travel Agent,Solo,2024-01-09,2024-02-05,7,4500.0,No-Show,31500.0
+1773,Taj Palace Delhi,Goa,Executive,Travel Agent,Business,2024-01-17,2024-08-06,6,8500.0,No-Show,51000.0
+1774,Taj Palace Delhi,Goa,Executive,OTA,Family,2024-11-22,2024-04-23,6,6000.0,No-Show,36000.0
+1775,Leela Jaipur,Hyderabad,Executive,OTA,Couple,2024-02-11,2024-11-24,7,2500.0,Cancelled,17500.0
+1776,Leela Jaipur,Mumbai,Deluxe,Direct,Family,2024-12-05,2024-05-11,3,6000.0,Cancelled,18000.0
+1777,Marriott Bengaluru,Goa,Deluxe,Travel Agent,Business,2024-11-02,2024-10-24,5,8500.0,No-Show,42500.0
+1778,Leela Jaipur,Mumbai,Standard,Travel Agent,Solo,2024-03-30,2024-09-18,5,3500.0,Cancelled,17500.0
+1779,Oberoi Mumbai,Hyderabad,Standard,Direct,Family,2024-03-12,2024-10-25,4,2500.0,No-Show,10000.0
+1780,Taj Palace Delhi,Delhi,Deluxe,Travel Agent,Solo,2024-08-26,2024-07-09,1,18000.0,Cancelled,18000.0
+1781,Hyatt Hyderabad,Mumbai,Suite,Travel Agent,Couple,2024-08-02,2024-08-19,5,4500.0,Cancelled,22500.0
+1782,Taj Palace Delhi,Jaipur,Deluxe,Direct,Solo,2024-09-16,2024-06-01,6,12000.0,Confirmed,72000.0
+1783,Leela Jaipur,Jaipur,Deluxe,Direct,Couple,2024-09-14,2024-02-15,6,8500.0,Confirmed,51000.0
+1784,Taj Palace Delhi,Goa,Executive,Direct,Couple,2024-04-11,2024-11-16,6,8500.0,Confirmed,51000.0
+1785,Oberoi Mumbai,Hyderabad,Suite,Travel Agent,Couple,2024-10-24,2024-01-30,3,3500.0,No-Show,10500.0
+1786,Leela Jaipur,Goa,Executive,Direct,Business,2024-04-19,2024-03-11,4,6000.0,Confirmed,24000.0
+1787,Marriott Bengaluru,Delhi,Suite,OTA,Family,2024-08-23,2024-02-25,7,2500.0,Cancelled,17500.0
+1788,Hyatt Hyderabad,Delhi,Suite,Travel Agent,Business,2024-12-02,2024-01-20,2,18000.0,No-Show,36000.0
+1789,ITC Grand Goa,Hyderabad,Deluxe,OTA,Business,2024-03-25,2024-03-12,5,6000.0,Confirmed,30000.0
+1790,Leela Jaipur,Goa,Suite,Direct,Solo,2024-07-02,2024-10-28,3,18000.0,No-Show,54000.0
+1791,Hyatt Hyderabad,Hyderabad,Suite,OTA,Solo,2024-08-20,2024-02-15,4,4500.0,Confirmed,18000.0
+1792,Marriott Bengaluru,Delhi,Deluxe,Travel Agent,Family,2024-12-01,2024-02-10,2,3500.0,Cancelled,7000.0
+1793,Hyatt Hyderabad,Goa,Deluxe,Direct,Business,2024-04-17,2024-02-29,1,18000.0,Confirmed,18000.0
+1794,ITC Grand Goa,Bengaluru,Standard,Travel Agent,Solo,2024-07-17,2024-08-19,2,4500.0,Cancelled,9000.0
+1795,Taj Palace Delhi,Bengaluru,Suite,Travel Agent,Solo,2024-03-25,2024-07-06,5,2500.0,No-Show,12500.0
+1796,ITC Grand Goa,Jaipur,Deluxe,OTA,Family,2024-07-15,2024-08-30,5,8500.0,Confirmed,42500.0
+1797,Oberoi Mumbai,Goa,Executive,Travel Agent,Couple,2024-07-18,2024-08-15,4,2500.0,No-Show,10000.0
+1798,Hyatt Hyderabad,Bengaluru,Deluxe,Travel Agent,Solo,2024-11-18,2024-10-04,5,18000.0,Cancelled,90000.0
+1799,Marriott Bengaluru,Goa,Executive,OTA,Solo,2024-02-03,2024-02-01,2,4500.0,Cancelled,9000.0
+1800,Oberoi Mumbai,Goa,Standard,OTA,Solo,2024-07-14,2024-09-06,3,4500.0,Cancelled,13500.0
